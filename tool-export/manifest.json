@@ -208,6 +208,4182 @@
           "sha256": "0859ed6e59d3ded7519cd6e6409c0d9ce914af0e09dadc2dce7965ee2e991852"
         }
       ]
+    },
+    {
+      "name": "gradle-8.10.2-bin.zip",
+      "bytes": 136715430,
+      "sha256": "31c55713e40233a8303827ceb42ca48a47267a0ad4bab9177123121e71524c26",
+      "chunks": [
+        {
+          "path": "gradle-8.10.2-bin.zip.000.part",
+          "bytes": 900000,
+          "sha256": "727beede95ca8f578509c5d3892823107bdb16e7a2f5e1ec7774201491b96c11"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.001.part",
+          "bytes": 900000,
+          "sha256": "c726ac70166878696510b4f473cff452c2afb26e1ca33ee250fa5b7217a3a872"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.002.part",
+          "bytes": 900000,
+          "sha256": "8f040a1d8a580ff235f4967caaff551370811b21dc4a9af0a602f04b8422cfe9"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.003.part",
+          "bytes": 900000,
+          "sha256": "ad99c4c40131c4488c07db3ac919cdb841e80f7225b249741feba61c3eff54ca"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.004.part",
+          "bytes": 900000,
+          "sha256": "de988b2f274b92b71e351aca9812bb0996a63d677ae2d9dcdda2226ea65338e1"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.005.part",
+          "bytes": 900000,
+          "sha256": "d3c625330592cbcefc1ade52357590e8c59a6527f7d7d7d62456f1cda30b8fc3"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.006.part",
+          "bytes": 900000,
+          "sha256": "a6309eecc74aa14bc3ec172a1940395c266ae41fa501f74ff360fc35cfb9c83b"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.007.part",
+          "bytes": 900000,
+          "sha256": "9d2625fc1d2883d7f98ac3eeb3aa6a5469bb2d651649a58049d3db79b3884977"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.008.part",
+          "bytes": 900000,
+          "sha256": "38814f716595c33c02f39602ed24875f22729fa187d6e7f1a4ee542ea5aa2844"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.009.part",
+          "bytes": 900000,
+          "sha256": "f3a51a3bcd3b16a96880051053949c412639dc3b702dd51210c2d0ecf6ee4e06"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.010.part",
+          "bytes": 900000,
+          "sha256": "ee66f1cdaac9b4cc6905387f9d5fd4f34f95a23a1d0d3b526a4d67139ea4f2e9"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.011.part",
+          "bytes": 900000,
+          "sha256": "91b6d918a2fe0d1ca2746d91e6e9b92c90e17d317a6a15cfda6a892dcc9fdd58"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.012.part",
+          "bytes": 900000,
+          "sha256": "9712733191156a0e5fa79b22b8f135beb8dfeea314a3213b10a186e8a887a01e"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.013.part",
+          "bytes": 900000,
+          "sha256": "bd12f68a1ab494a443e46af21959c04fb8f34ea9a78a8eaf599f0fd1e49f9668"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.014.part",
+          "bytes": 900000,
+          "sha256": "0680a5a9efc6c038001d1afe2a938ba23be3163cb94405976c4517011e5231c5"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.015.part",
+          "bytes": 900000,
+          "sha256": "3353fd210ed5473f5127af4035de014bd916c23dbfb6378de63b1e422c5e7165"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.016.part",
+          "bytes": 900000,
+          "sha256": "cb26de3ac07511db8159e07a9f143cfa1e1a5ee4ff63cea71d5c564f530f3b2b"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.017.part",
+          "bytes": 900000,
+          "sha256": "fa70729c31b9aba435c6af7746dece541fe5a6d7ac290ba3259c9683b0002bb0"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.018.part",
+          "bytes": 900000,
+          "sha256": "32773e59df7331486e7c4d9742cb2e88c6861bbb5cb84bbcc7b8198231f11af8"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.019.part",
+          "bytes": 900000,
+          "sha256": "a2ba08d42a978b893d2e411dee9c2911b9a9d223f86775c36fe188c469300232"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.020.part",
+          "bytes": 900000,
+          "sha256": "c1b63e555e92601786b09d2a220860cd74fb32da4ea685c5e7b8c31935f6b2d7"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.021.part",
+          "bytes": 900000,
+          "sha256": "4996a5038902945871ed2babbad0890f0d58f89c9b71f449e221b3541aa5452d"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.022.part",
+          "bytes": 900000,
+          "sha256": "6a685259a5e6b4d0d3ed0ce5ff68ed4071de250c3fad3605019c753fe662e02c"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.023.part",
+          "bytes": 900000,
+          "sha256": "419dfdf4ffd49c36c6bdf47afd369fbc7dc64223855f34978a0a4d8321a7b7b3"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.024.part",
+          "bytes": 900000,
+          "sha256": "a2b61925c277631fdc0128c3b400fcc623d7dcf25e904f1eaea2818a555dcdc2"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.025.part",
+          "bytes": 900000,
+          "sha256": "48f9dc3e9de8339aaab9f32b27157b40cff5550cadc6d2917f3f1d82c581b3dc"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.026.part",
+          "bytes": 900000,
+          "sha256": "78e14ae1511fa8f9689dcdfcf09947874f70920ef37f9ab47ee2d8fe7a8c8478"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.027.part",
+          "bytes": 900000,
+          "sha256": "4ddd7f2e98e768e46ea93145c2c1bb370083b8ce3384ec252d8fc0586cf9e2cf"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.028.part",
+          "bytes": 900000,
+          "sha256": "743057beeddefaacf88fef3bdb53fa1925c7578a3658ff9e33ca4f6e349b21f0"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.029.part",
+          "bytes": 900000,
+          "sha256": "6720950676723c70376e76d3a3605766a50e1aac0ecb36125bb18c9e98fe1308"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.030.part",
+          "bytes": 900000,
+          "sha256": "971ee821fc9046f6450f03423519f574918444065c99493da80454718ff2fbe2"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.031.part",
+          "bytes": 900000,
+          "sha256": "95b68a3b7d9d7e367e5ca3db7f01c6512b70c4fe51cbd1d67a09655024c9260d"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.032.part",
+          "bytes": 900000,
+          "sha256": "1fe4a933ea687d213aebe8bf001ceaff7226cf2695ebb09385ad54e5ff9944f2"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.033.part",
+          "bytes": 900000,
+          "sha256": "a928b18a64a95b460395cb9cd9305aada2283e313972521ec35c93e0b71e177d"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.034.part",
+          "bytes": 900000,
+          "sha256": "21a0a0303ed899cfff4d3d5f10b762548361dc4deb2ae9c96e1c956f1f6d3463"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.035.part",
+          "bytes": 900000,
+          "sha256": "10870ae27e100291b7edf88ade6163b96d0433b2e3f44c1aafd0b8f9c7f75508"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.036.part",
+          "bytes": 900000,
+          "sha256": "539081012118818c7bad82f119f6162dd7c349ab52214d509121bdbcc3869d51"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.037.part",
+          "bytes": 900000,
+          "sha256": "35d24022f61a9ca02ce8649f8fd55f142bee7d89551eb6085980f734b320092c"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.038.part",
+          "bytes": 900000,
+          "sha256": "69255e9abaad4fc4b968ded72da2b1b64ac9c31f4258e848e8a5c36f85359830"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.039.part",
+          "bytes": 900000,
+          "sha256": "7aa9c753402af2793a4b6f971eb10a8cc394f5cb13003dafe6cea75b65f088bf"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.040.part",
+          "bytes": 900000,
+          "sha256": "8d609ca9a074f9a6c8970844601b580318c6faa16ba25b16cdbe44aee2f28184"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.041.part",
+          "bytes": 900000,
+          "sha256": "7abc06cc953b8bbc213fa765278edc65141ab500653414faccfe6fec4292eaa2"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.042.part",
+          "bytes": 900000,
+          "sha256": "88701810a5377caf6df283385c74a993f683fd7890ea6066ec4d11f41c34252f"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.043.part",
+          "bytes": 900000,
+          "sha256": "eb12575c494a72682f72444fcd20ece4ac5c45b7d254d42347167d40dd33ef37"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.044.part",
+          "bytes": 900000,
+          "sha256": "a0a0a7f0951bdc5a0861d18fe602c93672ecfc76081625a3758fd1d75244ded0"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.045.part",
+          "bytes": 900000,
+          "sha256": "de9a163875db2197a5344ca2ff123895a3402e61cbf86ad3faecfcf9e207068e"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.046.part",
+          "bytes": 900000,
+          "sha256": "dda907e24b0666fe7e3a653327b69df5cd4aebb66b68978895a359f22a090041"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.047.part",
+          "bytes": 900000,
+          "sha256": "c15a35da0c0222653e11973222b5f432a7fdc1dd9aadf90297c3da93f8d5d3a3"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.048.part",
+          "bytes": 900000,
+          "sha256": "060cf1d8514cc8a02a4c8cc23041c2d3b3638a5b01e68c199b185e6f7d7188e7"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.049.part",
+          "bytes": 900000,
+          "sha256": "36788f9b87e7c9ab81b6424d5904cd2fd74b67736fed7c0a8e6d092c6655e24f"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.050.part",
+          "bytes": 900000,
+          "sha256": "6f60063ccc31861419fc3174f70be293d6e38ffc77bf395e31962c37ccb860db"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.051.part",
+          "bytes": 900000,
+          "sha256": "66a5c2938232b5840e8b99c3c2f16a07464712f8b451a320f987a01e514c8322"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.052.part",
+          "bytes": 900000,
+          "sha256": "3989967f03d98e1642854e4fbaa53ccdbb6ed8bf68ce97245697c94340466de5"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.053.part",
+          "bytes": 900000,
+          "sha256": "2110f5f2ddd4d3eb206fe189d4e1b0ae2369cc4414b368cbfbcd2e50e4cbb16f"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.054.part",
+          "bytes": 900000,
+          "sha256": "852a8849785a8d30eab5ce0312a152376ee0992b4e0bae00b45d7effa34fe9cf"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.055.part",
+          "bytes": 900000,
+          "sha256": "7f49da20b2eb9ff3b0774561e9a4ac673299d7f149088d503f864b6f6b7574d1"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.056.part",
+          "bytes": 900000,
+          "sha256": "1c1691fc8ef64e52202b49648010c4d1529e55a63e49d292b74dbc0e935b7f07"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.057.part",
+          "bytes": 900000,
+          "sha256": "cae21570170e005bcb4f6cd9b0024084e224cc6da63cdc2f3f86f951d184199b"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.058.part",
+          "bytes": 900000,
+          "sha256": "6c88245b841138ed31c754da79ee412aa1329e60a38c972d6b34688508082472"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.059.part",
+          "bytes": 900000,
+          "sha256": "2667f5850d5ea98d8fc88ed605083ab43cf012e21f7c36716a683661fef49a96"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.060.part",
+          "bytes": 900000,
+          "sha256": "a8f8a6e4d24e57027c4d50952bd51a68bc7c3f8f55862720b8935391eee67995"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.061.part",
+          "bytes": 900000,
+          "sha256": "0466ec923639cf75694128d288e487531f04d298049f67b27ccbcbb4d01db5cb"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.062.part",
+          "bytes": 900000,
+          "sha256": "3bbd6aeb70f5b22ba84efd7c242e5e71cb7295c11c320ab15853e094351c9593"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.063.part",
+          "bytes": 900000,
+          "sha256": "d98a485cf984ded28fbfd32cb1e3d46f6a645a51aaf295eaf4cfca106c0d4304"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.064.part",
+          "bytes": 900000,
+          "sha256": "0cd870a51af70d17dccc7bc021e50d410352462b5f9c69e2303a516000445082"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.065.part",
+          "bytes": 900000,
+          "sha256": "3ae6d67f0c36d8eb376a464cdbee063190c26290933e7b8b83d3953cb1d000c3"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.066.part",
+          "bytes": 900000,
+          "sha256": "9b4f1b0c9cedc0349a129c410363ae574315bff5979a3cefa58f5d46a01477fc"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.067.part",
+          "bytes": 900000,
+          "sha256": "d82e7c22eafd850600f7fc8380e01fc610b708fb987c2e051724e111574c9040"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.068.part",
+          "bytes": 900000,
+          "sha256": "f1e3e08cb77295d36c0afe976233bcf1261f1c6c754386d7db9ab71485390a05"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.069.part",
+          "bytes": 900000,
+          "sha256": "9f52bf4a85274f2795bca2930de600a4c12b59b80d6f72f1a53bd42450458b44"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.070.part",
+          "bytes": 900000,
+          "sha256": "e194d299137603a991f3e17426a1920b8075c1321753272a73db3607dc684181"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.071.part",
+          "bytes": 900000,
+          "sha256": "d1d570ed34cb4bef5937bb6ee077ea52509a2a26622e53cdd912914ff46d815a"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.072.part",
+          "bytes": 900000,
+          "sha256": "bd9de260383a994dea9dd1bbd820eb8debd51618ff17a3f7f9a64767f15e8246"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.073.part",
+          "bytes": 900000,
+          "sha256": "7ddedd880b620286c462d7c7dd3141f8e1623901b89d4e7ec3b357e172848088"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.074.part",
+          "bytes": 900000,
+          "sha256": "bfdeb0983075d95679ef90dd65be22783886f1c744e1f4f3e0c4522536a4790d"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.075.part",
+          "bytes": 900000,
+          "sha256": "7808b8be1d83cd61077f2cea0765730a10dc67c76fb24ad0d6a08c7d2c3980a9"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.076.part",
+          "bytes": 900000,
+          "sha256": "ecaba3c104a284d7544f7f71bec66425212f528b2f120cdb872792b6677694ec"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.077.part",
+          "bytes": 900000,
+          "sha256": "a921d793bea08c16e19a7925ece6dbd413405e0a0aaeed34f2b51a60a183e77c"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.078.part",
+          "bytes": 900000,
+          "sha256": "fce36dc7f056a3773d4cd64735431991e738cc472cbb2176a7bb9148cfb2ed0b"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.079.part",
+          "bytes": 900000,
+          "sha256": "b8bc08bf78ed936c3df5eb8324a00bf3263247d781b83345ca3c955e292f8290"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.080.part",
+          "bytes": 900000,
+          "sha256": "a3192f6bcc9d6f7e60c39276cafd563964e2e3a55438e339107fd7b05accba2d"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.081.part",
+          "bytes": 900000,
+          "sha256": "5e3b1afb2d12ebe4d32e571037573fa8322dd67db3485d65e452e3d05ece30dc"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.082.part",
+          "bytes": 900000,
+          "sha256": "a3c955f0d75925adb9b52fb9cff2e67dfc9f15d526986b5f416224166218531a"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.083.part",
+          "bytes": 900000,
+          "sha256": "18ce491684087f318f57936be86795528a95e3083b2ac2539042bb3da890be0c"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.084.part",
+          "bytes": 900000,
+          "sha256": "96044291c1dde7401b9ea231bbd152060f8016738ed5effe4de0f1c70d1b596b"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.085.part",
+          "bytes": 900000,
+          "sha256": "496b686c1cc5127aa44914acd205b2fb1c80250f45c420764997ee4c9f123a38"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.086.part",
+          "bytes": 900000,
+          "sha256": "a91862a428d47d0b5a3178c485b9d6da598a6440ab6283d33e21db374df3994a"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.087.part",
+          "bytes": 900000,
+          "sha256": "93e2b43df0be4fd35f0880f40153048a4a59c7b6cbeeb207acae87e54c497e8c"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.088.part",
+          "bytes": 900000,
+          "sha256": "081321db06c2cf05db5cee07ef302b6d23e34dc0de0b7702503eaf131b822d67"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.089.part",
+          "bytes": 900000,
+          "sha256": "049efadc3f32fc457581190cb2b949c3747d5275ec177888acfde65e0e20fd1e"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.090.part",
+          "bytes": 900000,
+          "sha256": "267492978efb9d1d677362772548165952a305cc5068c5cd8e0840b12efc6321"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.091.part",
+          "bytes": 900000,
+          "sha256": "c95fda93ce7631a707ad2ba8f3100f10bdf78f9196a794c70a36a89402762911"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.092.part",
+          "bytes": 900000,
+          "sha256": "b67f17e5d565025c5fafd9a26e4b1f6154a15b1e13355e9c2fdc504bc629b665"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.093.part",
+          "bytes": 900000,
+          "sha256": "c38d1e90dc8122622c57ef1686f3750639188df9edf303b7c08e49f8a38f86b7"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.094.part",
+          "bytes": 900000,
+          "sha256": "1d8c574ca7bbbb5e881ffb710ee2c65eee88e993d7cff97c9ec4afb79ce7510e"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.095.part",
+          "bytes": 900000,
+          "sha256": "509cc915d900c7d176d182bc420928e816fb68231703fa95dab3602cce8ed1b9"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.096.part",
+          "bytes": 900000,
+          "sha256": "fa63b2490f294f865ab8615232716fa4c5b61d62f31f056fb3be1a7dd9cdf867"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.097.part",
+          "bytes": 900000,
+          "sha256": "9ea7324ba97e358b883826e6e54fa4df9e2dd0e4da9d34357d6b0c3afd9da498"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.098.part",
+          "bytes": 900000,
+          "sha256": "652746594af14a89ce4c654b2889140724c54fc08b59126aa561c2bb9a7f43d5"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.099.part",
+          "bytes": 900000,
+          "sha256": "67623d3a0f1469e9edfe1cb8db571d65f899ab1306fa40d37d96c368d2649e46"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.100.part",
+          "bytes": 900000,
+          "sha256": "79eaeb6d67e4ffb615c939252cb4a86c0ca00cacbf850dea15d72d208aa888ac"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.101.part",
+          "bytes": 900000,
+          "sha256": "50e569f96483aba753dbdbe67d61ba00509524a67b64f8297c4fe5b1aecc2caa"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.102.part",
+          "bytes": 900000,
+          "sha256": "801e54d7ff93749476ea1fb05c10613cb375442f16df5e987579c47ff1eea5f6"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.103.part",
+          "bytes": 900000,
+          "sha256": "9a3c7b8bded343b32b84781d363f7d9cb38bd7694ea1fc5852981e6041a6bc09"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.104.part",
+          "bytes": 900000,
+          "sha256": "d7a67ad079ac2ff2ccc013d67ffc35629468c17bfdf6abcdbfe7aa020f509116"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.105.part",
+          "bytes": 900000,
+          "sha256": "49183bf2edf2382ea2aa5b2e167557402b06a59dce743d45026fa83e4b20f838"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.106.part",
+          "bytes": 900000,
+          "sha256": "6cb0f67ade081c890888829726d29ad2e81d211f7638d003158d7d6034e46b89"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.107.part",
+          "bytes": 900000,
+          "sha256": "db5295e09a78745d3b86c2413a5091a9e2a8264b49c5683ba4f6c72907f4ac1d"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.108.part",
+          "bytes": 900000,
+          "sha256": "105ce68b729fd4fb1659414094210b2deec23248785e0bf70716341474c2bf38"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.109.part",
+          "bytes": 900000,
+          "sha256": "5b1728ef5079309a07fea081e58d6258e854029f22e7b24a1351c00cbe53a019"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.110.part",
+          "bytes": 900000,
+          "sha256": "9acea85610420e1be94b3544bc991d303736ffef4c834cec7db8741da7b643b3"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.111.part",
+          "bytes": 900000,
+          "sha256": "fd1c5025b90662a364fcde99b751d0d50b55d5b60f33116e69a37d85e5780ac0"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.112.part",
+          "bytes": 900000,
+          "sha256": "029688ddc996733bf927d19baacb2e2a25720ecf0ab99eabfa1fda4ceefb9aff"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.113.part",
+          "bytes": 900000,
+          "sha256": "653efbc64d5643fdf577a2f2f56a2c6cb35bd593544ef4c3583581bfa1e945ea"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.114.part",
+          "bytes": 900000,
+          "sha256": "8e6967904fa3cf08e04adc3d30923f6ba1d16644170d9208cdb231eed3833bd5"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.115.part",
+          "bytes": 900000,
+          "sha256": "7086ef8d4cd710bb82890d53813ea7cdbf2caa3e0312c775a4e3eb803a05d762"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.116.part",
+          "bytes": 900000,
+          "sha256": "5a0aa6fe362c3eaed95cdcd26e2c94a7ed9e773dcb1a0d022cbe056ea2e20ee2"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.117.part",
+          "bytes": 900000,
+          "sha256": "50806c479eb062b00f0c3b4b33499c8aa5950cb3f1f4964d1d0304be74d5c1ba"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.118.part",
+          "bytes": 900000,
+          "sha256": "0dbfcabf078d4e0109f94e6e8df9d898abd0a60b21ca90f3ef0c440dcec97adf"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.119.part",
+          "bytes": 900000,
+          "sha256": "8191407801443efbb8ac551baca8b45e6745ecd763502c59a7f74b03ce878c92"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.120.part",
+          "bytes": 900000,
+          "sha256": "53d6fe134048ee3f977b2304108b6210419b81807d05f6ded5ad3886b35c63a3"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.121.part",
+          "bytes": 900000,
+          "sha256": "6c4cd158c65f537324c0aa86d34ddcd421753e11a9e03517f438a626f18329f4"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.122.part",
+          "bytes": 900000,
+          "sha256": "5ad428f6f69cb89cb8c768fe9c092d15579eb527eb0da7b489e2bcbb0f965e4a"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.123.part",
+          "bytes": 900000,
+          "sha256": "3317bdac9bbbb5723f2b9839d5a14efa03ee6cf406ce75e09b66d99311d2e3b7"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.124.part",
+          "bytes": 900000,
+          "sha256": "74cbc2229020a48f3941923b24cb013482b373ffbce7365485eab36191500eb6"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.125.part",
+          "bytes": 900000,
+          "sha256": "02c36bbf2bfbee2f586025af2ca2ddddf9330d30b59d5b1012911f36c6f61757"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.126.part",
+          "bytes": 900000,
+          "sha256": "616c38d8a477db5249d0924702d43619bba7b289c9ee714c5a4ed590a82b38f1"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.127.part",
+          "bytes": 900000,
+          "sha256": "03c9cc7bad4526205e50a142e5dea3464dd6822d3d8d8394d7e31d2edcb5742c"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.128.part",
+          "bytes": 900000,
+          "sha256": "a30923fd4457139e0e5989f52db295b8b7274cd1aa260e89430ab614ed61d842"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.129.part",
+          "bytes": 900000,
+          "sha256": "f2b6955f79a3ce04bbc91fbf3f7031516d8306ab00b4ea05d5b86b8951f135ff"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.130.part",
+          "bytes": 900000,
+          "sha256": "699cb5d76a155aa35acfae3f33ff1a726f165b69d58035936422bb0839629890"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.131.part",
+          "bytes": 900000,
+          "sha256": "ef00de9e4246ef57df31f1abf2a02f7474ef83b1991c2f31e230a664ecbf5b6e"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.132.part",
+          "bytes": 900000,
+          "sha256": "8d39ab58d00eb41e5e5d54c3cc40cd09bb6e7c1827862e4d816ada7a3aee5748"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.133.part",
+          "bytes": 900000,
+          "sha256": "d6cff09a6e12ddb097c8641617b2736959cd9c5c28bc9a101687834d90508e66"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.134.part",
+          "bytes": 900000,
+          "sha256": "6a13cfe1ea4ebf1602a96bde18f584d5bc5d92a75d4d5c29b4c399e5ec2359a6"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.135.part",
+          "bytes": 900000,
+          "sha256": "bee7f56f89d41472f25fbcb6efa0c7e28674a9ce8f47f47f5ace0788e339035d"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.136.part",
+          "bytes": 900000,
+          "sha256": "292c0dfc391226f8e00a3b85d9fb264880eca93038e4ebdd527a856e35935653"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.137.part",
+          "bytes": 900000,
+          "sha256": "d2e612093ad9f18b701ec326bf2a5ef82cd762991e3cb90b5164000ec87d8bb4"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.138.part",
+          "bytes": 900000,
+          "sha256": "cc1ffdef495a92ab31ed3ffb6cc1dd9d8ed4ea66182e173f829945cd35e51008"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.139.part",
+          "bytes": 900000,
+          "sha256": "73f95b52c9d7e11367301f849f0410f14efacb8430cd88557dc3e95f6fa3e513"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.140.part",
+          "bytes": 900000,
+          "sha256": "be6bfe48e3f74a1022d4ddc9057f515c72d923407bf8385fa77f383e585e2a7c"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.141.part",
+          "bytes": 900000,
+          "sha256": "062c179db3e1a5d8325f9cdcaabd8562fce6d7c29cc7d1af42e696dafc1f3382"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.142.part",
+          "bytes": 900000,
+          "sha256": "f35cc38a7850bc7a6640034fb24d2886e39766aad1357097491acab54716efd9"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.143.part",
+          "bytes": 900000,
+          "sha256": "e1ff5820cd36be280c074ae4515386f6fa17e261617e851502905d707f8104f7"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.144.part",
+          "bytes": 900000,
+          "sha256": "ce05f30d8b923cf6c23b83322ffba9832d5db28d1e8c99d8d5f367e8b021d49a"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.145.part",
+          "bytes": 900000,
+          "sha256": "51902ba62d5df8e70069f50a0ecd0ce6b91a0e11e028f01873493df86f0ceb57"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.146.part",
+          "bytes": 900000,
+          "sha256": "b986ef068d8394633a7fd5344f988c107aafb159ec57fdbbe6ffa6e9833bfb79"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.147.part",
+          "bytes": 900000,
+          "sha256": "a4782c876dd22738b5039be433026ac3be001d6d9c440335cd5d2162ef99abe0"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.148.part",
+          "bytes": 900000,
+          "sha256": "574c344f8900ff6c119c63650de5854ae2b1aa35437ef4a8acabe853a6ee3c2e"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.149.part",
+          "bytes": 900000,
+          "sha256": "fed776baa371a979bbf98d1906bfcd90659448eb98d733b241d1e4b0b685600e"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.150.part",
+          "bytes": 900000,
+          "sha256": "0bebf46db9c88198028e11f0bc2a3139f30afc86eae48d50250058baf33fb761"
+        },
+        {
+          "path": "gradle-8.10.2-bin.zip.151.part",
+          "bytes": 815430,
+          "sha256": "3672b646b4917c5a6a849e081dcdad74ed64ce92fa78112fc8e95bf80104a824"
+        }
+      ]
+    },
+    {
+      "name": "gradle-cache.tar.gz",
+      "bytes": 430293575,
+      "sha256": "6e19e5f6df1b77a870932d41beffe9cfe2afe5f2219b271e0f3d24b024dc0cba",
+      "chunks": [
+        {
+          "path": "gradle-cache.tar.gz.000.part",
+          "bytes": 900000,
+          "sha256": "5933a35f2f123a627394751e7f0f6f539c0bf924d8192315b8bd65b34a784cea"
+        },
+        {
+          "path": "gradle-cache.tar.gz.001.part",
+          "bytes": 900000,
+          "sha256": "eb89d31bf73a1401d05d56e0fed9621d9b19586af4ae5648d3f8925860324b2b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.002.part",
+          "bytes": 900000,
+          "sha256": "f8f9001957dfb7068603553a9212bb6d9f870f5e00e10d47d89378319f44ffb1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.003.part",
+          "bytes": 900000,
+          "sha256": "d4a9e5f67b68cc7208a6d8886592c996b7acb8b993e0b81cbbc8a2fbbfedfbe0"
+        },
+        {
+          "path": "gradle-cache.tar.gz.004.part",
+          "bytes": 900000,
+          "sha256": "65d6a8ee52a5f838c6035b30c186712acc39d6138eeda70b261e01bab4586b5d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.005.part",
+          "bytes": 900000,
+          "sha256": "bbc7a6a5ce71900c6f739010198b2fc66aea77af18c315ba05a29d151b537242"
+        },
+        {
+          "path": "gradle-cache.tar.gz.006.part",
+          "bytes": 900000,
+          "sha256": "61731a07927d8ebf2cb4196ea44f75dd416ee25eabb9ddd2fc20c47630ed189d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.007.part",
+          "bytes": 900000,
+          "sha256": "931393ee1a2c70b89f597881c0220b2acd316eb8b2f31383a9adfff498ec9ad2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.008.part",
+          "bytes": 900000,
+          "sha256": "4e84d05a4b4634208aac15dde09a64b615a76885681ff226fe1359f712de172c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.009.part",
+          "bytes": 900000,
+          "sha256": "2b279d59576e9380f6625fc8d9f819b1062094db8649ecaea211dbe67b0439a1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.010.part",
+          "bytes": 900000,
+          "sha256": "67064deac0fffd918197da33f9f47823cffa47b1ee48e09bebb73edd87b2eb61"
+        },
+        {
+          "path": "gradle-cache.tar.gz.011.part",
+          "bytes": 900000,
+          "sha256": "1c56515e8386043e12e8596fa140bb45cb2cdd1bf4ae75af7b5a3704cc249c00"
+        },
+        {
+          "path": "gradle-cache.tar.gz.012.part",
+          "bytes": 900000,
+          "sha256": "35f3e6553e847bca67c66722b6ba1aa2b090b1cba6002461199eae7db07c868b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.013.part",
+          "bytes": 900000,
+          "sha256": "53d2e378722d7b26ae6bb97d5f753f9f252ea423d66a9b08c871f63c8c1ec50e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.014.part",
+          "bytes": 900000,
+          "sha256": "a59fd31436af68e6c56c77bee5b82f63f229f1cd96e7a32087b243576d0d4deb"
+        },
+        {
+          "path": "gradle-cache.tar.gz.015.part",
+          "bytes": 900000,
+          "sha256": "5e87eb043523d72d97b96921a5d9c562f1c0229152d6e4b8518d1c07f5f72567"
+        },
+        {
+          "path": "gradle-cache.tar.gz.016.part",
+          "bytes": 900000,
+          "sha256": "1ac7c194272d823a18a702ce878e8a0a632115764440daf6a90b2cb571eb65ff"
+        },
+        {
+          "path": "gradle-cache.tar.gz.017.part",
+          "bytes": 900000,
+          "sha256": "54a7182fc265b954c3f6ca264b4b59b747922aa4cd3d66d43fadb728a6f3a18b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.018.part",
+          "bytes": 900000,
+          "sha256": "e442f17b04b57554bbc2b285898fd11da647df5a11b3637b158d4482d0e7b13d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.019.part",
+          "bytes": 900000,
+          "sha256": "24b4370905811e1500ab3abf8f3a1c5a9e5ce9774d567debb05ceb34aad4758d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.020.part",
+          "bytes": 900000,
+          "sha256": "0ec984beaf0ee4ddea5ce44e26c326058e042bf7fa583f2098c3d48b88ea6d1d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.021.part",
+          "bytes": 900000,
+          "sha256": "67f981695278eb8d2f40280537b0deeee01f7a8a008e910e9d0832ae5032178f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.022.part",
+          "bytes": 900000,
+          "sha256": "ad73f4f5a6383263495ead273f039b2f4b41d796e7a35906ac9d9cb90fb4905e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.023.part",
+          "bytes": 900000,
+          "sha256": "670becbbb19670556e93685be7335da5d0513218476cb55b5c350e95fbc088fa"
+        },
+        {
+          "path": "gradle-cache.tar.gz.024.part",
+          "bytes": 900000,
+          "sha256": "60b65b2f0f9b80f3b83bcbf2251dd09451d24cb6505df31ef6d527540992d517"
+        },
+        {
+          "path": "gradle-cache.tar.gz.025.part",
+          "bytes": 900000,
+          "sha256": "94ae772804c3da36f89ba21f51cf5df347924353178aab7a532f895416807880"
+        },
+        {
+          "path": "gradle-cache.tar.gz.026.part",
+          "bytes": 900000,
+          "sha256": "5ef9b0cf141bec8422e2aaa4ceddeb87c6ce6358ede4cea99b6e3dbeaa96075e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.027.part",
+          "bytes": 900000,
+          "sha256": "3358e98c7699461c462ae5ac4a16036e8cb57c1f8d3c34c0c7ee7f498df706c6"
+        },
+        {
+          "path": "gradle-cache.tar.gz.028.part",
+          "bytes": 900000,
+          "sha256": "e26d966d6597b635f1305e56a009aacbf32eb244d059f8f18f5061681f074fcd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.029.part",
+          "bytes": 900000,
+          "sha256": "e4d16c49ac8939218e506b9cc2febc6a2c46297b6c0dbaac4ee5060f389d617c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.030.part",
+          "bytes": 900000,
+          "sha256": "c23aa022a67b757c29fa512d0599a0c4d86ab069921f043b5cf050d75667a01a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.031.part",
+          "bytes": 900000,
+          "sha256": "930168a4f3b439e0f2b95afc212b648d1d1569e4759de5a5e947b81951069cb8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.032.part",
+          "bytes": 900000,
+          "sha256": "a1215fa3c7dcf92bb44090081a41f385699103ca82ec23da8ed101fe8f0954ba"
+        },
+        {
+          "path": "gradle-cache.tar.gz.033.part",
+          "bytes": 900000,
+          "sha256": "d11f68314192a576225f01f435bacb6a751966fd1da990c423e24547d02cc704"
+        },
+        {
+          "path": "gradle-cache.tar.gz.034.part",
+          "bytes": 900000,
+          "sha256": "66e192ca76f63e229aea977e3419e1bd5a6e3c39512f330dc71ad5c3a91b8505"
+        },
+        {
+          "path": "gradle-cache.tar.gz.035.part",
+          "bytes": 900000,
+          "sha256": "4568208c9ef767e8dbe72d52fa17f06c631cd419b65c441245c945a1e6f18aa8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.036.part",
+          "bytes": 900000,
+          "sha256": "0e8b1f6f3fa96e6823ded40bde3fa87f8d6ee18148a2bbcb218e01e7302c24ed"
+        },
+        {
+          "path": "gradle-cache.tar.gz.037.part",
+          "bytes": 900000,
+          "sha256": "1e29729260d72eabe5945e5fd501131e43b447b3e793f31775cc67b4226760bb"
+        },
+        {
+          "path": "gradle-cache.tar.gz.038.part",
+          "bytes": 900000,
+          "sha256": "870c3dc6cfc3867c7befeca15c5510dbebd3858eba0ef078a74982b432d653a8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.039.part",
+          "bytes": 900000,
+          "sha256": "2f07787a2e0b65a625ebd51d4f1238c30ba3d6f3b16f0de78b2ed7d32fc7b23a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.040.part",
+          "bytes": 900000,
+          "sha256": "815fb6de0733edcfb8e615465c0d758bbed12eddbf504b245ba38cce25766f9d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.041.part",
+          "bytes": 900000,
+          "sha256": "92f6026a7d4a7245cbb0b88687c5d0aa5fa347dd8c1e5f728c077ac94fe88b94"
+        },
+        {
+          "path": "gradle-cache.tar.gz.042.part",
+          "bytes": 900000,
+          "sha256": "3860ddd8d01c006baecafbd5bfcdc8cf6841687722bdd434d3d8a94bc61a4936"
+        },
+        {
+          "path": "gradle-cache.tar.gz.043.part",
+          "bytes": 900000,
+          "sha256": "f7405951a6f128959d53b71d5a64e219bde99b1cac271bdc0f272b106b7f387a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.044.part",
+          "bytes": 900000,
+          "sha256": "a600ededb1dadccebda872e4f451432b231de1b1287f342bbfe94fbe292085d8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.045.part",
+          "bytes": 900000,
+          "sha256": "29fa555eea13759bac2cc886acdf4d2e66854e87130b1bcb764a607f732a606b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.046.part",
+          "bytes": 900000,
+          "sha256": "5489c5db514f77f7b5c1dd706431318e7546bc5c97e8d65f1341f18f036c99fe"
+        },
+        {
+          "path": "gradle-cache.tar.gz.047.part",
+          "bytes": 900000,
+          "sha256": "5cabaa9c7f7ebfdbd4a529e63d6b5d5e988044b10e6282a73bf4b3bd8ce60978"
+        },
+        {
+          "path": "gradle-cache.tar.gz.048.part",
+          "bytes": 900000,
+          "sha256": "8ef0db7b019734d0224d53e7c1a8bdd8a9ecf6deb2e3db85a11db32fe2416a47"
+        },
+        {
+          "path": "gradle-cache.tar.gz.049.part",
+          "bytes": 900000,
+          "sha256": "6c7b4b0f4f266559d19922a20f14c2cb61d8a59957acfdd227dc27818ebc06cc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.050.part",
+          "bytes": 900000,
+          "sha256": "06a96c3609c109d1aed8d44ac78b12482b6a140d9c51cd9f19bac8291f53a2ce"
+        },
+        {
+          "path": "gradle-cache.tar.gz.051.part",
+          "bytes": 900000,
+          "sha256": "2f8d37bd41aa77fc3d9eeb53e303abeec57db2b9ac007121f552b8c4c0023a71"
+        },
+        {
+          "path": "gradle-cache.tar.gz.052.part",
+          "bytes": 900000,
+          "sha256": "5e73b058cae239c2b0b64f8f8b9b44909d1db35e2f4563cba59120940bdb2344"
+        },
+        {
+          "path": "gradle-cache.tar.gz.053.part",
+          "bytes": 900000,
+          "sha256": "0fcdd5f38011583a7789cdeb05dad36ee0a1f9b37f72271d0cca37a0a23e9cdb"
+        },
+        {
+          "path": "gradle-cache.tar.gz.054.part",
+          "bytes": 900000,
+          "sha256": "90919b5bdc510f30333ce84e1327cd85d577c112a73f7fc919aa44de5e4e090b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.055.part",
+          "bytes": 900000,
+          "sha256": "d665f3d84c12181df002c198adcc742faa6ed0fc1be813e93bead0d9928795a6"
+        },
+        {
+          "path": "gradle-cache.tar.gz.056.part",
+          "bytes": 900000,
+          "sha256": "26a428ad416433738c97161f5cfce867a81616e8d4a5a6f49fd2b15a1f764e12"
+        },
+        {
+          "path": "gradle-cache.tar.gz.057.part",
+          "bytes": 900000,
+          "sha256": "de2ad777227d3dc370ec931f23741595a734b2d932dce03269bec584ae4a80e9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.058.part",
+          "bytes": 900000,
+          "sha256": "fd3772515fd311c069c6c35c436698acc31443a3201f6b2c718eb695abf7dc7e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.059.part",
+          "bytes": 900000,
+          "sha256": "ab4f5d9c0377e5d6d2bea616813e3ea1fc218135d2595ebfb2bf2b99fb48a210"
+        },
+        {
+          "path": "gradle-cache.tar.gz.060.part",
+          "bytes": 900000,
+          "sha256": "e063cf5dffab4ae62c28dc7d64b64e3637304060bd87d4a545a6c375e6c7ddc7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.061.part",
+          "bytes": 900000,
+          "sha256": "1acb6ec7b1918dd3440a6e18eba35ccc7a4cac47f0592367121968ef6b027907"
+        },
+        {
+          "path": "gradle-cache.tar.gz.062.part",
+          "bytes": 900000,
+          "sha256": "d38fe0d21b697b4c250db0d09deea3e19c358bee9660b8554c28ec26b05b544c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.063.part",
+          "bytes": 900000,
+          "sha256": "8ea6445e0772eb80fabc28657ccb765b9a50e71712b8d0fbb0948be6036a013e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.064.part",
+          "bytes": 900000,
+          "sha256": "521aa3da3c8216fa97dd36c5ed42791b7f474a163b984023bcd91cf4de9d1051"
+        },
+        {
+          "path": "gradle-cache.tar.gz.065.part",
+          "bytes": 900000,
+          "sha256": "14de82d3c8d371fd90d5983bff8081eb9d37046aead4a2675bf893d91581593f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.066.part",
+          "bytes": 900000,
+          "sha256": "56a343ca6eecd281b8358c338b56ecc4d7cdbfe990343c7b7270ff4d95810c0c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.067.part",
+          "bytes": 900000,
+          "sha256": "4eb164fc537af791ef1afb58bd52a86b6536d38356028b7a30ccf6e7284efb95"
+        },
+        {
+          "path": "gradle-cache.tar.gz.068.part",
+          "bytes": 900000,
+          "sha256": "a663686d76c385d19ed631c60028551a17d9184a9e572cf086594b0be042df38"
+        },
+        {
+          "path": "gradle-cache.tar.gz.069.part",
+          "bytes": 900000,
+          "sha256": "4bbe4e4de90dbbe4fa759d79304344995b1d3d55c2324820cd4fbc65d74e8c16"
+        },
+        {
+          "path": "gradle-cache.tar.gz.070.part",
+          "bytes": 900000,
+          "sha256": "cfda567c48d9913de6aef6e1f133b75a5e865d9dcad117106e5e1b310cb56169"
+        },
+        {
+          "path": "gradle-cache.tar.gz.071.part",
+          "bytes": 900000,
+          "sha256": "7a113a448e2756e9fd275039244112446a36e3ec7e8b99a45abce93d4cc4b020"
+        },
+        {
+          "path": "gradle-cache.tar.gz.072.part",
+          "bytes": 900000,
+          "sha256": "d7206b2890096d1cbe825477a258cbe56bfbda01e1d2e5d3d48fbe0d3e03ca09"
+        },
+        {
+          "path": "gradle-cache.tar.gz.073.part",
+          "bytes": 900000,
+          "sha256": "f0b760c3a0e783a75ffeeb8f7844cdd0f925fccf45062fe0d2f3acefcc6e978e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.074.part",
+          "bytes": 900000,
+          "sha256": "486b5984527b6b5a5529fc224c4696c612ac2c39db4f0720217012eb8a86a8cb"
+        },
+        {
+          "path": "gradle-cache.tar.gz.075.part",
+          "bytes": 900000,
+          "sha256": "bfe3eb9b391af23d53a24fd8284773efdd10e0fdaafc82514ff15d5d5356a36f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.076.part",
+          "bytes": 900000,
+          "sha256": "1a340200a8c036c8f750d2a123edfc116cbbfd44c1395d3b5fccf507fe9a05d8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.077.part",
+          "bytes": 900000,
+          "sha256": "2f60565bbaf0b38cf57104ecae80b6799c79d89fdc9c2c8b18ebdc1969c9f0a7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.078.part",
+          "bytes": 900000,
+          "sha256": "4291e0323ee59cb20bf590fa02805ece243ac99accd45e6404f99b3febbd75dd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.079.part",
+          "bytes": 900000,
+          "sha256": "b1a97640f05fb96615d49da2bcf0e6fd438c3589d23214e7644a9ddda6564f58"
+        },
+        {
+          "path": "gradle-cache.tar.gz.080.part",
+          "bytes": 900000,
+          "sha256": "92aaaaa814bac7e7864f435bc51b523b982215ffcac85d724193d9664e50eb75"
+        },
+        {
+          "path": "gradle-cache.tar.gz.081.part",
+          "bytes": 900000,
+          "sha256": "246b1df3a91621ebb90b3504ac41de7114040d6192494313abce8a459bba088d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.082.part",
+          "bytes": 900000,
+          "sha256": "92faffaf8d40bf4cf3cc210cbc13e03c0ab113ac90dcf0b60b2c1a3ac4c0a1a0"
+        },
+        {
+          "path": "gradle-cache.tar.gz.083.part",
+          "bytes": 900000,
+          "sha256": "465e3dce05020a5681304626d79198b37f9f8a4cf62f31b6f6cffc3290109036"
+        },
+        {
+          "path": "gradle-cache.tar.gz.084.part",
+          "bytes": 900000,
+          "sha256": "289c9376f034c0831d574b57ece065ccc9899c9cc13cc452886f3d6d93bb8efe"
+        },
+        {
+          "path": "gradle-cache.tar.gz.085.part",
+          "bytes": 900000,
+          "sha256": "57ccf1ac2ff69c89e6ee6ee47eb84d33881840a9f130faadaa51ff0ab9940795"
+        },
+        {
+          "path": "gradle-cache.tar.gz.086.part",
+          "bytes": 900000,
+          "sha256": "975265ec00c7032e1d686ef94266bdbfc9f3be4f99683f02e1c19c9ce9ca44bb"
+        },
+        {
+          "path": "gradle-cache.tar.gz.087.part",
+          "bytes": 900000,
+          "sha256": "8a8fdc77683055d2198a797061afc9798f2706d4ff51055dcde48fde56b6fc03"
+        },
+        {
+          "path": "gradle-cache.tar.gz.088.part",
+          "bytes": 900000,
+          "sha256": "b8ed36f12d34d2c18a003b8a9f9cd9aabbf73ae1ca4736047c4eda4188496b00"
+        },
+        {
+          "path": "gradle-cache.tar.gz.089.part",
+          "bytes": 900000,
+          "sha256": "d5e15dc219de1b06f99d6f9a277e81b9c0e7f7fb86ab24b3c4201d99504a9085"
+        },
+        {
+          "path": "gradle-cache.tar.gz.090.part",
+          "bytes": 900000,
+          "sha256": "ec9bf470cf0db2791f65606376b2ac9fc944f473293e1e49fdfb6f98bdc1f526"
+        },
+        {
+          "path": "gradle-cache.tar.gz.091.part",
+          "bytes": 900000,
+          "sha256": "23d175cf0e778940874ecf588ad9394f91fc7a4ac326f56651dcb5013999ecb4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.092.part",
+          "bytes": 900000,
+          "sha256": "03865c38c57c6548a7720e7048f9814ac7ca926c5a90deb266fa9e9a8f87d532"
+        },
+        {
+          "path": "gradle-cache.tar.gz.093.part",
+          "bytes": 900000,
+          "sha256": "3dac1f2e66d6f07d337aec4c027eb3e5784134579fad33d8a8565b11c8ea8e8b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.094.part",
+          "bytes": 900000,
+          "sha256": "ae8ee2df5a869abe7bc134981a3a545eb85de422827c0060b18bf2ba8452eb09"
+        },
+        {
+          "path": "gradle-cache.tar.gz.095.part",
+          "bytes": 900000,
+          "sha256": "5cf85f6906479063a789f11cc179ff4b4350b4e0e4dbbe71376488a37480fe22"
+        },
+        {
+          "path": "gradle-cache.tar.gz.096.part",
+          "bytes": 900000,
+          "sha256": "b9156d872c447c677e041ce047bba2076f511577f54d0084990233b4c4c0fba5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.097.part",
+          "bytes": 900000,
+          "sha256": "147c2b1603f615c30c07f9e13c0148339a3faba0cc5e099fcab41fff62fa96d4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.098.part",
+          "bytes": 900000,
+          "sha256": "5daa9cec1b23be9a3128de55bbe5afd0f658f2bd7f456d637d0eee4ce71ce02b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.099.part",
+          "bytes": 900000,
+          "sha256": "b47d1fce736ddb30449da9d527f2df48813b6cda3e10de1ea42307dd5c949771"
+        },
+        {
+          "path": "gradle-cache.tar.gz.100.part",
+          "bytes": 900000,
+          "sha256": "b8c4036885c4d279ec01c10f9390a6e864cc2e27f96b07c533cf7163adb90e20"
+        },
+        {
+          "path": "gradle-cache.tar.gz.101.part",
+          "bytes": 900000,
+          "sha256": "8a0ba5f547b373d5d431cdae7fec73e3b2f298911d6b684f56d9cdd180de3c1c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.102.part",
+          "bytes": 900000,
+          "sha256": "ce11ed33f526aa598791d2f51c0e054219213359341ce1c3d6e6c126cb57af88"
+        },
+        {
+          "path": "gradle-cache.tar.gz.103.part",
+          "bytes": 900000,
+          "sha256": "b791d192d876e51bb6ed0ff781d582aa22da80f79ad4c1f7fd664457d1ad3a15"
+        },
+        {
+          "path": "gradle-cache.tar.gz.104.part",
+          "bytes": 900000,
+          "sha256": "fe32cc1ac4083c6532e7a280b38f5b3b4f0cf08fa83dc70d349e9be89132a3e8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.105.part",
+          "bytes": 900000,
+          "sha256": "54bb19fed1e93729d02f4fc97b57dd9f13fe4426d2e8cb2b6ba005a4421d97bc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.106.part",
+          "bytes": 900000,
+          "sha256": "bafb2343958b78984cf3c57129584e928c308f2c7bf96439a9e39909abd105ff"
+        },
+        {
+          "path": "gradle-cache.tar.gz.107.part",
+          "bytes": 900000,
+          "sha256": "1bae69082cc90764ae5685c278eef5032561f1e51c3f4fb1bde79cd1f7bd5918"
+        },
+        {
+          "path": "gradle-cache.tar.gz.108.part",
+          "bytes": 900000,
+          "sha256": "75aeb90d80fc7da6e6badc292999bd9409764c33fb14d252aef9bb63e797e865"
+        },
+        {
+          "path": "gradle-cache.tar.gz.109.part",
+          "bytes": 900000,
+          "sha256": "8bba4dbe0f192bbf8437c9d266294df6e852363790c6527b953cf62d80fb3c8d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.110.part",
+          "bytes": 900000,
+          "sha256": "9f51b46f5bc466cce9f708bf083cfa5a0956ac1e0e0bf50c05baffd5e824e2f9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.111.part",
+          "bytes": 900000,
+          "sha256": "32f09a90b11b0a6fc51da4347bae6748665d65207733fc65ad4e7ac4450625f9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.112.part",
+          "bytes": 900000,
+          "sha256": "e2e13be956048c3c702fbceb4385e9b59a51923a025819c0d289a1f9451239c2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.113.part",
+          "bytes": 900000,
+          "sha256": "e16099aff77079223eae7d71e5e27aaa85ef687b96c3059d5e5d47b86a5a70dc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.114.part",
+          "bytes": 900000,
+          "sha256": "5ab9a0a191c5cf29c0268b22b2d17774e3689d32e701c70a027c90ee0064aafc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.115.part",
+          "bytes": 900000,
+          "sha256": "285bfc2bd560b5d7165747a613e58f6afa7a8764f8f9f9205ca3235850d59005"
+        },
+        {
+          "path": "gradle-cache.tar.gz.116.part",
+          "bytes": 900000,
+          "sha256": "cf60712f5fc2fbd0ae7a9ccc9d2eea522e4cfcb6896efc6bc8bca43963f54a76"
+        },
+        {
+          "path": "gradle-cache.tar.gz.117.part",
+          "bytes": 900000,
+          "sha256": "1829d035188841a673ab6d208b7cdb122453bb9b192ad81279404dc2821b2ba5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.118.part",
+          "bytes": 900000,
+          "sha256": "9caacb28cd248b045b09440d0b4d33bf676eaa9704ceab1bcefe33682e5f87b9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.119.part",
+          "bytes": 900000,
+          "sha256": "b7ec4e680e98468f2e284e2822127ed162d9c29844d9986010e82b31d1029e25"
+        },
+        {
+          "path": "gradle-cache.tar.gz.120.part",
+          "bytes": 900000,
+          "sha256": "dc2d6df7c89c44de365c88a8dc0376b28cd7e0906380de48f2332c1972df1260"
+        },
+        {
+          "path": "gradle-cache.tar.gz.121.part",
+          "bytes": 900000,
+          "sha256": "0a0baafbefda552bad9303a5d6b176354866cb7dff8d32b086cea23985f65ac2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.122.part",
+          "bytes": 900000,
+          "sha256": "e4bee1136d43b6da193cb141f7fa4a813c085f7c169adbb238b35cc585b4a72c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.123.part",
+          "bytes": 900000,
+          "sha256": "7b37c667ff2eb82b6073acca7f635bc0e03487209a9e349c31ac5e80bdc16451"
+        },
+        {
+          "path": "gradle-cache.tar.gz.124.part",
+          "bytes": 900000,
+          "sha256": "141ba37fded9508b685d1b2d05298fca72714d4392fd32e13c4eeb1db4fd1e82"
+        },
+        {
+          "path": "gradle-cache.tar.gz.125.part",
+          "bytes": 900000,
+          "sha256": "af9ea31210e71279cc1db3124e48fe37a9e00e64a30cac317dfd8000b4595272"
+        },
+        {
+          "path": "gradle-cache.tar.gz.126.part",
+          "bytes": 900000,
+          "sha256": "8e26136c5fe82f31471f19a35d1b8cfbdf2904531842cc56a64febf255aff549"
+        },
+        {
+          "path": "gradle-cache.tar.gz.127.part",
+          "bytes": 900000,
+          "sha256": "c850af664d7decb6f32ced402bc1f80eed7a2f7cb241acdb0e236b3903f08683"
+        },
+        {
+          "path": "gradle-cache.tar.gz.128.part",
+          "bytes": 900000,
+          "sha256": "e95ce1fde82764495f607184660ca42aff9d7a819c62515a35075b3c5b91b9aa"
+        },
+        {
+          "path": "gradle-cache.tar.gz.129.part",
+          "bytes": 900000,
+          "sha256": "022f05dffda51724d7b9a7e665e61ebe2e8bd177ed28d930fc4d32b087b1263b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.130.part",
+          "bytes": 900000,
+          "sha256": "f9e712193f8ae49578135c57dd6c1c3261639a0c751909cc9ed8681a25133ce3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.131.part",
+          "bytes": 900000,
+          "sha256": "c08724254c20fccdf297bf592e32492883b9100631ed6a556122ed054ce11dc4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.132.part",
+          "bytes": 900000,
+          "sha256": "fc1704f83c4a7e117b379680b8d669a6186f8279dcbfc899f862c556a0915f06"
+        },
+        {
+          "path": "gradle-cache.tar.gz.133.part",
+          "bytes": 900000,
+          "sha256": "3fa0b1f3c4bc9722b88a23ce2b4e370e0436cf5104b8e734742ef7e472a646b0"
+        },
+        {
+          "path": "gradle-cache.tar.gz.134.part",
+          "bytes": 900000,
+          "sha256": "7fe1996e9415619dfa48d9ff2b362dc7a419b8160a60e2a0c584694fa76bed6a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.135.part",
+          "bytes": 900000,
+          "sha256": "96c3ceead35efcb5692d601bba85cd862ec5f0b1cc62106c81f16f78196945a5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.136.part",
+          "bytes": 900000,
+          "sha256": "a841c8ccccdc361489f1315a26bb9af9195e5d8a7cb0b538072eff7c3e7f1362"
+        },
+        {
+          "path": "gradle-cache.tar.gz.137.part",
+          "bytes": 900000,
+          "sha256": "a5a7bc8654b2bcf3dc0ba9677a2ebdcaceeb01a1c8a1d4958498de815f613a16"
+        },
+        {
+          "path": "gradle-cache.tar.gz.138.part",
+          "bytes": 900000,
+          "sha256": "42690cd8f35b8f01e63e67979befdf99ac2c1cfa667419af9ed9c2e4d0238891"
+        },
+        {
+          "path": "gradle-cache.tar.gz.139.part",
+          "bytes": 900000,
+          "sha256": "bef35a9d66d25b05648e139565b463c139a4268cc71694d95c0138fbe2bb244b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.140.part",
+          "bytes": 900000,
+          "sha256": "2e4fae5fe78c86fcdef9d80904867be5c1fa7dbd8bfd9373a9e2ca01c23568d7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.141.part",
+          "bytes": 900000,
+          "sha256": "d3c99fa7eafe01224e97081c25bc7198b4c82394c97a30d20c1820cf14b1dc91"
+        },
+        {
+          "path": "gradle-cache.tar.gz.142.part",
+          "bytes": 900000,
+          "sha256": "0df433f5a9132ac892e6a84738a536bbc41e819100b04600dcce13b7aa98f756"
+        },
+        {
+          "path": "gradle-cache.tar.gz.143.part",
+          "bytes": 900000,
+          "sha256": "b93182860555a0f532770a08a2417fac04bc015fae8bfb4c847c1220a7250aa7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.144.part",
+          "bytes": 900000,
+          "sha256": "d311a54dd5fbb0158b13686df3525965f2cab204471282de98c9215f1c47089e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.145.part",
+          "bytes": 900000,
+          "sha256": "9d639b13a0e2dee72f589a0dcf8be13621f2cb5be3a267ca859bdb81a7856afc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.146.part",
+          "bytes": 900000,
+          "sha256": "58bf3ea6e98ebddb22efd996e260e9d1faa19da474bbd94cd3fb6ba42372dc16"
+        },
+        {
+          "path": "gradle-cache.tar.gz.147.part",
+          "bytes": 900000,
+          "sha256": "e3249db941b4e2476494992931de5f0021c0422d6661d5be7257460a9becebac"
+        },
+        {
+          "path": "gradle-cache.tar.gz.148.part",
+          "bytes": 900000,
+          "sha256": "fc19d095ff39e3b63435020fc77ef74c81c9fda5812770141907f79921c58fcc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.149.part",
+          "bytes": 900000,
+          "sha256": "253e09cbfae5ab665013d5bb754b5507ad230866d3ca35d9a9644b2611acb816"
+        },
+        {
+          "path": "gradle-cache.tar.gz.150.part",
+          "bytes": 900000,
+          "sha256": "87fd8fdd7cbb79a69bdf11261aa053669e127ec3ca5869c8d446d258aa678072"
+        },
+        {
+          "path": "gradle-cache.tar.gz.151.part",
+          "bytes": 900000,
+          "sha256": "2ab7c76e163521752cef1c32e89cd9ee21390f374304e6be735b48b5809b9e3b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.152.part",
+          "bytes": 900000,
+          "sha256": "882f57567fec0d1766fa46b11c24117746eb1c37c4a477cac5bffb4ad2f96c0a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.153.part",
+          "bytes": 900000,
+          "sha256": "433a2ccfda6e791bdba333e286bdbc2edfcf7ebb29f5cb2b211885bf26f11732"
+        },
+        {
+          "path": "gradle-cache.tar.gz.154.part",
+          "bytes": 900000,
+          "sha256": "f384b684c959edc1b5886eaf549dd7217dc3a8f378d064ed465337d7178d09e9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.155.part",
+          "bytes": 900000,
+          "sha256": "0911a7096bde45635812bec23206a535eb94d01cd19d084eef060d8a6019a185"
+        },
+        {
+          "path": "gradle-cache.tar.gz.156.part",
+          "bytes": 900000,
+          "sha256": "94d879b8a0f819552073fc0325beeeeea8e631d15158bb8ed1182ff655961e31"
+        },
+        {
+          "path": "gradle-cache.tar.gz.157.part",
+          "bytes": 900000,
+          "sha256": "67782844d43b36b535f4ac1fe4d27cc1f2e99cb7297764bb36383bf3865b99ab"
+        },
+        {
+          "path": "gradle-cache.tar.gz.158.part",
+          "bytes": 900000,
+          "sha256": "254a38250140083d2cfb772e761d02b16d6a34b4324c57068b55bc1ee061c36a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.159.part",
+          "bytes": 900000,
+          "sha256": "7a99718262b0defbe74a491a69a622368ed9a31d3ca64e77e990b1bb2b7019a9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.160.part",
+          "bytes": 900000,
+          "sha256": "955a0097e1b8737aaf3ec88c18edafc96f31b8aa6bc188189cc1f4fae98f062b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.161.part",
+          "bytes": 900000,
+          "sha256": "3bcd3eb6561619c12738c92989ecaa862e39dde5b087a32e086f96a486a4d56a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.162.part",
+          "bytes": 900000,
+          "sha256": "2b5d1af6276ae26803edaa7b74c3d2c9bbcaca3363d0f5eab0b4e0f0f02efbfd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.163.part",
+          "bytes": 900000,
+          "sha256": "d0ca62cc790db127f35bf066d176d89fd99e013cf14dc4533b44a31b4f802624"
+        },
+        {
+          "path": "gradle-cache.tar.gz.164.part",
+          "bytes": 900000,
+          "sha256": "357782c30f64a6ca2cd908930339fb342d72246353308f714e8a406a8abfa084"
+        },
+        {
+          "path": "gradle-cache.tar.gz.165.part",
+          "bytes": 900000,
+          "sha256": "abffb660e33dabef7d3c67f85ac1f468e1a1e23bd843fffe4d5d215199327bca"
+        },
+        {
+          "path": "gradle-cache.tar.gz.166.part",
+          "bytes": 900000,
+          "sha256": "db86a4c2778702dbf78e8c5b064e59731642c8beff099cf3d337161ce8fa0298"
+        },
+        {
+          "path": "gradle-cache.tar.gz.167.part",
+          "bytes": 900000,
+          "sha256": "bb92c1bb097457a406bc0e65fdeed3cb119a6641f841de2059e99d2b785000d3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.168.part",
+          "bytes": 900000,
+          "sha256": "87739a11c6167101eb0a6592fb12eb5517e1dbb7e051cfd375f5b0021ae2afca"
+        },
+        {
+          "path": "gradle-cache.tar.gz.169.part",
+          "bytes": 900000,
+          "sha256": "169295dcc878eab59f9f1a1e66b5a32894e6c02658fd2f7e8b0cdb4e46182868"
+        },
+        {
+          "path": "gradle-cache.tar.gz.170.part",
+          "bytes": 900000,
+          "sha256": "81ec1ac6d7527a54c774fa3531ce4cced0efa430a7d02679b3f66589f1bb6fae"
+        },
+        {
+          "path": "gradle-cache.tar.gz.171.part",
+          "bytes": 900000,
+          "sha256": "3e5f3dde493bbfd7966abc4211ae90e4e0fbcb64364986b2f3bfaa3784d2ef56"
+        },
+        {
+          "path": "gradle-cache.tar.gz.172.part",
+          "bytes": 900000,
+          "sha256": "649f13195e6cb5dae53ecce33113db6bdcfa152006c24e189821401ef266078c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.173.part",
+          "bytes": 900000,
+          "sha256": "f6cf191b3e0986e520453d7f4a19a63c54935b14f46f6f73a438f5d8ce81debc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.174.part",
+          "bytes": 900000,
+          "sha256": "d7a722d9aed5ce2578d89a5a90121d3b654d0ba22377a02d7dfdf6a40d3bb015"
+        },
+        {
+          "path": "gradle-cache.tar.gz.175.part",
+          "bytes": 900000,
+          "sha256": "71d354f4442fbb512f036b219ab12e3549b4f931c0262f7f035284326cf5dfad"
+        },
+        {
+          "path": "gradle-cache.tar.gz.176.part",
+          "bytes": 900000,
+          "sha256": "df6e55f1550a58ff44393424ff3c373bed8d13b6dbd7f2dee8df0e2bb2304b2b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.177.part",
+          "bytes": 900000,
+          "sha256": "0f46d381c2e4fdb7b09f5f44c5cbdd4d28d5f4b35f3e225b46298a28801ff7f3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.178.part",
+          "bytes": 900000,
+          "sha256": "1e013bb18eb4a9417a62d33526bf7e32524ace7ff453bc6fdaede96014f908dd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.179.part",
+          "bytes": 900000,
+          "sha256": "326e96b9863b490ae8846e2855b5f67641dd3229e2c38cbcc237cd7658068535"
+        },
+        {
+          "path": "gradle-cache.tar.gz.180.part",
+          "bytes": 900000,
+          "sha256": "d35d231b69e28f91ff8899dc3b16114825128b712699fe230fb9e9fb0014fa85"
+        },
+        {
+          "path": "gradle-cache.tar.gz.181.part",
+          "bytes": 900000,
+          "sha256": "3e3e88975292b41709cd03b8adc285adb7cd0b269a2e3d398f9e1271a36808ae"
+        },
+        {
+          "path": "gradle-cache.tar.gz.182.part",
+          "bytes": 900000,
+          "sha256": "ae5621e0b61b86f1ea56417a4e86bb16b7ffd3058a3bf1fc0f123a26169b0bb5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.183.part",
+          "bytes": 900000,
+          "sha256": "fcbe668079c2d26117c9bc01f9e28c71de56621864fb4788037e134dc1cd7dc4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.184.part",
+          "bytes": 900000,
+          "sha256": "f0b5eeacfd55de36b903656d2768cd78d1c1470121f402d255f299fa952b0126"
+        },
+        {
+          "path": "gradle-cache.tar.gz.185.part",
+          "bytes": 900000,
+          "sha256": "ac645f2f2b34206bf6e4ef9f118dd61961567abb002263bca42546dfafc46bfe"
+        },
+        {
+          "path": "gradle-cache.tar.gz.186.part",
+          "bytes": 900000,
+          "sha256": "ba103fb0ffacae42665c7e6a3c82dfbcc4010a339f24b73727a53dcdce5e769f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.187.part",
+          "bytes": 900000,
+          "sha256": "a068745c13c094b983ae11fe8b871534adae3e6a3d6f864d72dbd7fa1222f67d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.188.part",
+          "bytes": 900000,
+          "sha256": "400d17d338ff49be0b0961ef7a1aeddef3d569da66d93e04c600e7f4c9af9bc3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.189.part",
+          "bytes": 900000,
+          "sha256": "1939ae1a76f3c8ab165e46b2140ba9f000d884bbdee36633d66d05a6db85417c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.190.part",
+          "bytes": 900000,
+          "sha256": "a2085d0257aaef09f39825ea1da13aeecec6801c6c0694b3b3ffde9e2265fe1d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.191.part",
+          "bytes": 900000,
+          "sha256": "6615c68071045d7f01c839ff8b12136eb6134227fdac130bc0094b5d565c3157"
+        },
+        {
+          "path": "gradle-cache.tar.gz.192.part",
+          "bytes": 900000,
+          "sha256": "f285341372e35ab4fbdac1a937c135a6d2539d2157ef2b9a6458912c4d46338d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.193.part",
+          "bytes": 900000,
+          "sha256": "6c958ddb04f18b10936846098a01e65f05fdfb16506fdcbd0df43fcb68710ffd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.194.part",
+          "bytes": 900000,
+          "sha256": "67f9bc4aa24f39a9f63cce4f17168a9c7c4fb6c87a10b442c017122aac5a89fb"
+        },
+        {
+          "path": "gradle-cache.tar.gz.195.part",
+          "bytes": 900000,
+          "sha256": "e95f45a2bc2589997b75e77c4434676155f0613641fa979b005837f1a199a6f5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.196.part",
+          "bytes": 900000,
+          "sha256": "ba4b9af8fa3e27b737fcc6c05141f474103defe755cb5235e9164ee80ea3d7e4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.197.part",
+          "bytes": 900000,
+          "sha256": "a5e321f7368d60881c19b577f024eb5ddffa8c2918658297ca4c841d8d17693a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.198.part",
+          "bytes": 900000,
+          "sha256": "17c0d9683232177a5fa1fc50d6d30c0693a29f4b71dd015e56786f5fd4effb3e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.199.part",
+          "bytes": 900000,
+          "sha256": "4fc361148fecb3e36348568a79737b3e40f367adeb8f9016f6987ec71dd1aa1d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.200.part",
+          "bytes": 900000,
+          "sha256": "356d383ffa9446257fbc9ac071739a3d9d157ce503d8891f64f0b894cae40b9f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.201.part",
+          "bytes": 900000,
+          "sha256": "f5e72cb3cfe51d9d418e6245fabf0c5d8b1bfddff1ed9dc6d290b31dc1dd1621"
+        },
+        {
+          "path": "gradle-cache.tar.gz.202.part",
+          "bytes": 900000,
+          "sha256": "a46cc23e6893f1a22d20652595578b87e3d636c3e6a3ebd1f5deabaac86a4b1a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.203.part",
+          "bytes": 900000,
+          "sha256": "f5f2c9b39e4b9f97c0febbc0c0525c02d66b44d48aeaee2eff8577658683c5bd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.204.part",
+          "bytes": 900000,
+          "sha256": "f217bd42236bc1e8f04327d5587926bcc4db53511ddcadaa2a2668aaa4c2cac5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.205.part",
+          "bytes": 900000,
+          "sha256": "b695eab8adc28eb52b69e385aad54aa0be818c21feea069d950a75b15972c537"
+        },
+        {
+          "path": "gradle-cache.tar.gz.206.part",
+          "bytes": 900000,
+          "sha256": "ebe4e7b6e527fb9a2af186fc79c0c30367d659e9778e004ba77f24c40293018d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.207.part",
+          "bytes": 900000,
+          "sha256": "66f75c04d75d2ac91d512f00f9872d8149284a2865f9042555db8e46b36d9917"
+        },
+        {
+          "path": "gradle-cache.tar.gz.208.part",
+          "bytes": 900000,
+          "sha256": "3b01d9df1fbf2198e37b1a07aea9b4bf62a9becef19691ef4e04e672222a7fa2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.209.part",
+          "bytes": 900000,
+          "sha256": "1767e225c9f712bd06710ad054e6cdd3f31cbcddd08620f7b9d9bcee6b135ec9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.210.part",
+          "bytes": 900000,
+          "sha256": "024c42dc188e45b55c3c3bd1b164646e9305eb5bbe23245860df82031bbd9254"
+        },
+        {
+          "path": "gradle-cache.tar.gz.211.part",
+          "bytes": 900000,
+          "sha256": "a1ecbee7c84eccff3046771f22ec5cd364b11139f703d459b25ff3b27a2a73a4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.212.part",
+          "bytes": 900000,
+          "sha256": "838eaf925f6961719dd3baa1e82b459480ac0f0a48388655c7cd3b716ecf0b03"
+        },
+        {
+          "path": "gradle-cache.tar.gz.213.part",
+          "bytes": 900000,
+          "sha256": "f68ebaa5f5fdc925dbb1dcaa9131289d8c96a752c31d9f5c91af1570c4df11ca"
+        },
+        {
+          "path": "gradle-cache.tar.gz.214.part",
+          "bytes": 900000,
+          "sha256": "80ffcc0cdb1fde63944d5288bd1e53ce55b5db05ab98d85378c31f081ad44ade"
+        },
+        {
+          "path": "gradle-cache.tar.gz.215.part",
+          "bytes": 900000,
+          "sha256": "355252a3fde0902f094ba92ae99cf49ee17e470bad72a6eca5a86ea6dd6c868d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.216.part",
+          "bytes": 900000,
+          "sha256": "411c0a212c7849c8251813baec789a8006bf40871cb58d9437a164d2139dc385"
+        },
+        {
+          "path": "gradle-cache.tar.gz.217.part",
+          "bytes": 900000,
+          "sha256": "1f8f1e7b6ddd04587e25d6376ab90df25a681975b48c2b20ebda30381441aea9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.218.part",
+          "bytes": 900000,
+          "sha256": "63453ebc1af99f3ce0f5c521573cf925648d0a5dc5d6d65671a61746b239975d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.219.part",
+          "bytes": 900000,
+          "sha256": "44eece9f0ec8bed65e46e9e8e86f7c61bf9dbce9426fc21897651db470d97128"
+        },
+        {
+          "path": "gradle-cache.tar.gz.220.part",
+          "bytes": 900000,
+          "sha256": "d54aa920ebe1c161acbf96334da86fdd807522eaa10d570700606f157133a33c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.221.part",
+          "bytes": 900000,
+          "sha256": "d28480cb27838e3fff48872aac3f60c9aa540adb59fcc0d540668f59875bc9e1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.222.part",
+          "bytes": 900000,
+          "sha256": "3bc8268e64fa6910c6fd9c7080cdf538bcf6cd73820441f82601091c957aaf8a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.223.part",
+          "bytes": 900000,
+          "sha256": "ef2339637e4e800a4d9e69ed9530f10c9ca2f1f3edc066963af21fe934f5a6a2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.224.part",
+          "bytes": 900000,
+          "sha256": "81eace67beed57280707af18ad7fb5ff39e6d0ba5234f8095bae26b98cfdf5b1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.225.part",
+          "bytes": 900000,
+          "sha256": "da2fa50b646603ee8c9764b42a4757b5c5be19c90b881c64b82b71a3a31ec56a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.226.part",
+          "bytes": 900000,
+          "sha256": "4185aa4b45aa4358ca74e91bc482bfcd562c113eaaaaa08b9821836c48cb83f4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.227.part",
+          "bytes": 900000,
+          "sha256": "bcbe6f8c386d5bd9c19c06de5287749e35713fc0b7200a0f5ec7aaa7d792d6b0"
+        },
+        {
+          "path": "gradle-cache.tar.gz.228.part",
+          "bytes": 900000,
+          "sha256": "d7c8659443d989d27b347d53a65ac69c1f667a7d62fd04b82925e5932b294035"
+        },
+        {
+          "path": "gradle-cache.tar.gz.229.part",
+          "bytes": 900000,
+          "sha256": "1f95806a239bfe994ab5c1bbb7cdc292a743bb4f21a7dec4f2102c8a7bb36b02"
+        },
+        {
+          "path": "gradle-cache.tar.gz.230.part",
+          "bytes": 900000,
+          "sha256": "2d4358f8a397dfe50dd38081eb1f02c87bb89ee9987556b1afe6cb24ad01adf0"
+        },
+        {
+          "path": "gradle-cache.tar.gz.231.part",
+          "bytes": 900000,
+          "sha256": "f37104dae9a2d6a4fe0c26fba5046ccdff44d73dbdf44ce5a40af8cec536ba95"
+        },
+        {
+          "path": "gradle-cache.tar.gz.232.part",
+          "bytes": 900000,
+          "sha256": "f678e4a4e4a00dc9f9bf745ee462e1adb5ddafffed8597c08daac56d4a41a093"
+        },
+        {
+          "path": "gradle-cache.tar.gz.233.part",
+          "bytes": 900000,
+          "sha256": "1b8632a7eb1b4ae91e162267024a10ee10a62aeb1a2a7953d979a487ab4bf491"
+        },
+        {
+          "path": "gradle-cache.tar.gz.234.part",
+          "bytes": 900000,
+          "sha256": "441d8395b5cf228af1285f3e7155624c2105f630cbdcd7326b4c1a042cad9ebf"
+        },
+        {
+          "path": "gradle-cache.tar.gz.235.part",
+          "bytes": 900000,
+          "sha256": "bb854dc81f1c1073eaf8b51b39e7a7297329323493b54ce3f178ab033c2f8e7f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.236.part",
+          "bytes": 900000,
+          "sha256": "abc8dd92a58365d7e3119b50c3a0d796d5a122a3f410ec333d935bd27b683789"
+        },
+        {
+          "path": "gradle-cache.tar.gz.237.part",
+          "bytes": 900000,
+          "sha256": "9d930c769c3e57edf001048ad007d0d4d5319566a51e2e506937817ee5e9ce2d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.238.part",
+          "bytes": 900000,
+          "sha256": "e11e951b18e23cdea32f3118b1032ff2b1ff1d50210fc9a1a1d9c039aa9adec6"
+        },
+        {
+          "path": "gradle-cache.tar.gz.239.part",
+          "bytes": 900000,
+          "sha256": "52a6d7b5bce69fd04c99c698d29a44ccf4cf35b00676689225371d008dc32474"
+        },
+        {
+          "path": "gradle-cache.tar.gz.240.part",
+          "bytes": 900000,
+          "sha256": "f933e87542c250cdc1fc184f8c5590e7f72ee41d2ac702965a3205ce9edd168d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.241.part",
+          "bytes": 900000,
+          "sha256": "8ee6df98b50781b88cbaee1250dbed73da5977f22d4acc4f2d2a54187b3a2bc6"
+        },
+        {
+          "path": "gradle-cache.tar.gz.242.part",
+          "bytes": 900000,
+          "sha256": "fe635a0bede218e97d8e25f96f76de7944c87765f9841e065de92bce017a01c2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.243.part",
+          "bytes": 900000,
+          "sha256": "a05a3033df8787a269f94128d4a88f145e33b81ceff523029a000dd6e09c52de"
+        },
+        {
+          "path": "gradle-cache.tar.gz.244.part",
+          "bytes": 900000,
+          "sha256": "4d32fd59cd9dbb8cbe2593f7c548a9a0d297aacf2861db670f02c51cf69364e1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.245.part",
+          "bytes": 900000,
+          "sha256": "b408d8bfa4ab44874e7732c713ccc4f507ae56402f12464484dc6be3c0fbc6d9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.246.part",
+          "bytes": 900000,
+          "sha256": "fd35913f31d373c0cc108b106fb8bd53406b449f61278d91b04293ea912db140"
+        },
+        {
+          "path": "gradle-cache.tar.gz.247.part",
+          "bytes": 900000,
+          "sha256": "6589ebab2beae0ea12caea2c8286f2cda353c780de9b85eeeea48d343f93ae3d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.248.part",
+          "bytes": 900000,
+          "sha256": "75907b752bd76f8c3f9dc33252ffc0eacbc242b2f1faa2b14d3126d8ed919905"
+        },
+        {
+          "path": "gradle-cache.tar.gz.249.part",
+          "bytes": 900000,
+          "sha256": "232aec1bcef35b4da85c6e1b54293fffebbf88726e35d948a2c1d0bcce174403"
+        },
+        {
+          "path": "gradle-cache.tar.gz.250.part",
+          "bytes": 900000,
+          "sha256": "139dda6686f71e637cbbc6ed98b6b5ae7aaa1855dbdf2838fc24454ecdd8ddc4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.251.part",
+          "bytes": 900000,
+          "sha256": "820b7017f7f6a504a3f7fed2033ee2586f674149d6793250808635811d49f127"
+        },
+        {
+          "path": "gradle-cache.tar.gz.252.part",
+          "bytes": 900000,
+          "sha256": "64b2c2ae09ad4c9aa78610549554d6fc7b3734eb27b321e97d7d710d18ce1647"
+        },
+        {
+          "path": "gradle-cache.tar.gz.253.part",
+          "bytes": 900000,
+          "sha256": "a49ffb27505ab79784726a6715c810b1da99d9a757a544d8d168885298ff0ee7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.254.part",
+          "bytes": 900000,
+          "sha256": "846770ac36f2a75fa408d3f99d87cfd71965fca9f4dbd0d388ffc85319e58e41"
+        },
+        {
+          "path": "gradle-cache.tar.gz.255.part",
+          "bytes": 900000,
+          "sha256": "fc86eb8bf8d7e5ef2a471d7c260014b5bb02be317dfb24a625ab1a48b4f968a6"
+        },
+        {
+          "path": "gradle-cache.tar.gz.256.part",
+          "bytes": 900000,
+          "sha256": "9203edce348ad61cbdd832a7f23da0c22e45d3c097370250f99667546bcadba5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.257.part",
+          "bytes": 900000,
+          "sha256": "ce07f2a5cd1ba0418188af3f0ed894b29304d4d561788e14db8ca7580f534764"
+        },
+        {
+          "path": "gradle-cache.tar.gz.258.part",
+          "bytes": 900000,
+          "sha256": "0555d3a96031d14bde8891a4a22ba542f7a8d093938d8886ebc177682f0166ae"
+        },
+        {
+          "path": "gradle-cache.tar.gz.259.part",
+          "bytes": 900000,
+          "sha256": "a867e2bec6eccf617797167f2df1e58ae24bdd4aed4985f792cd633cad76091b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.260.part",
+          "bytes": 900000,
+          "sha256": "29cffa9124d526dbfcb3af7bd09762232d7eb37242c8a006ab897c16c79e953b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.261.part",
+          "bytes": 900000,
+          "sha256": "3fbd6901cf90e193c1648f96f99e89792fdb5345a76ce44314b9bbf63dc46068"
+        },
+        {
+          "path": "gradle-cache.tar.gz.262.part",
+          "bytes": 900000,
+          "sha256": "9d30427ae6d637fc60f01591eb12deee939804e6fb8104a56898dd2577598cab"
+        },
+        {
+          "path": "gradle-cache.tar.gz.263.part",
+          "bytes": 900000,
+          "sha256": "17ca3caa0c9b9e94178745aa1f6e64f557f7f5831a69b922a78c523a1079cf52"
+        },
+        {
+          "path": "gradle-cache.tar.gz.264.part",
+          "bytes": 900000,
+          "sha256": "aff187ee263d2f980e2c70027a578c7ba14586a89c7fcc37d5efe8f2c6d23373"
+        },
+        {
+          "path": "gradle-cache.tar.gz.265.part",
+          "bytes": 900000,
+          "sha256": "b39226c965ee080f650891457074e46de39ab0d01e0c640307107620cabafbb8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.266.part",
+          "bytes": 900000,
+          "sha256": "c3f43404bb270b83b4765344ec9a52e7db1a2e69e72661692f2fb34c0870c8ba"
+        },
+        {
+          "path": "gradle-cache.tar.gz.267.part",
+          "bytes": 900000,
+          "sha256": "9e09f25bd0d7b9c6e4523155d03504ff4f90f721ce2034371db627517b06dc95"
+        },
+        {
+          "path": "gradle-cache.tar.gz.268.part",
+          "bytes": 900000,
+          "sha256": "8b8459d0b8d88a7ec805bde2d68c4a8d4d813544f8781496534980f4e5fe5c07"
+        },
+        {
+          "path": "gradle-cache.tar.gz.269.part",
+          "bytes": 900000,
+          "sha256": "7339c2d43538893fb50e4932b9e37c339ffc4860ac1575490e48fc5c70e39309"
+        },
+        {
+          "path": "gradle-cache.tar.gz.270.part",
+          "bytes": 900000,
+          "sha256": "5a943605ec113fa3c9c533578e71d62e4b9e124b397a017e4972c76cac24ca17"
+        },
+        {
+          "path": "gradle-cache.tar.gz.271.part",
+          "bytes": 900000,
+          "sha256": "5a664723cf02599a1cf06ff5e5d02c28fd47160d3f7e62cec4080b31db4faed1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.272.part",
+          "bytes": 900000,
+          "sha256": "d9c663b79a11d60c440200c75b81db928967d83b1a6a057657f8651ca6dbf589"
+        },
+        {
+          "path": "gradle-cache.tar.gz.273.part",
+          "bytes": 900000,
+          "sha256": "ae3ad6442e3d41ea76a18ad2d51e98fd3d3add562e472353f043594431a28faf"
+        },
+        {
+          "path": "gradle-cache.tar.gz.274.part",
+          "bytes": 900000,
+          "sha256": "57bf1a29f592472474610520f9437ec71b7d8c1d60d667c496dfff41d306757c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.275.part",
+          "bytes": 900000,
+          "sha256": "71aace0e71a27d1f62835a73f05e2a17d5c0522c2f258ae908d4751f55530888"
+        },
+        {
+          "path": "gradle-cache.tar.gz.276.part",
+          "bytes": 900000,
+          "sha256": "39cc9170e6d317cca800736adfc00be77b2a01cc714534664c11cd8e7cb7772d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.277.part",
+          "bytes": 900000,
+          "sha256": "dfe6023bdadc7f743f366a0105542452f8d7e620f3521addacbcea0ad771862c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.278.part",
+          "bytes": 900000,
+          "sha256": "509a3befec172239a6c62e0937bafca5dd2f506822629151c8b27deab62edbcd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.279.part",
+          "bytes": 900000,
+          "sha256": "9ce7bf46fc45a4d4bb456f0a93c28ed52425296f2f5b3a939f97b1d0fb0fc2e9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.280.part",
+          "bytes": 900000,
+          "sha256": "4a1c2c404ec00d5a51dcb2a612c3beb46186fb5e9969b2e48f5726eeae7b6977"
+        },
+        {
+          "path": "gradle-cache.tar.gz.281.part",
+          "bytes": 900000,
+          "sha256": "8d854a29bc4af75740becb4a7622859eba7369d5626e35247828aace775fd601"
+        },
+        {
+          "path": "gradle-cache.tar.gz.282.part",
+          "bytes": 900000,
+          "sha256": "0cfd98def79fbe6e53c6cec6870729b413624e74b719e4ae9cc00b2ed5e4fe32"
+        },
+        {
+          "path": "gradle-cache.tar.gz.283.part",
+          "bytes": 900000,
+          "sha256": "81d637f3e3f90e16cc4b793a80123c6019511c6efe9a0e90932d58b74593da16"
+        },
+        {
+          "path": "gradle-cache.tar.gz.284.part",
+          "bytes": 900000,
+          "sha256": "0a45430ec3543829ea7d696bfd84ef4f49d863e7fd133b1b8d0c0172cdcd84ee"
+        },
+        {
+          "path": "gradle-cache.tar.gz.285.part",
+          "bytes": 900000,
+          "sha256": "f6b50bfb357ea37150e2d9e87fceed747e6032c5a96ad9fd42be65d61cbd187b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.286.part",
+          "bytes": 900000,
+          "sha256": "2be9bacae6ca858b68ec7006d6b039a6a223730fd17c4125f24e111d8674f8f7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.287.part",
+          "bytes": 900000,
+          "sha256": "8c7ef2094905fdbee9f9d09f7c2d452b412d12fdb8dc519c0b3a10b898c5f29f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.288.part",
+          "bytes": 900000,
+          "sha256": "6b339d232a0601396a5247820ba0aa70c00adcc57a307aa2178f3e72ecdc7b35"
+        },
+        {
+          "path": "gradle-cache.tar.gz.289.part",
+          "bytes": 900000,
+          "sha256": "b65cd4d5a2510ed2415569a14d09e179590d29af793b3b7d0dd3debeea25eb42"
+        },
+        {
+          "path": "gradle-cache.tar.gz.290.part",
+          "bytes": 900000,
+          "sha256": "7102d1ef58976eee4a57e00e6537edda0246737da79ea3537104167f64d965c1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.291.part",
+          "bytes": 900000,
+          "sha256": "143c8b7b06eae69443a18994d04943b9e2246827403333a4f0b0d7a3a5da3656"
+        },
+        {
+          "path": "gradle-cache.tar.gz.292.part",
+          "bytes": 900000,
+          "sha256": "61d346c493d7eddcf76d1a2da47bbd2c06e4010566b412e35e7ea74afffe4449"
+        },
+        {
+          "path": "gradle-cache.tar.gz.293.part",
+          "bytes": 900000,
+          "sha256": "ff5a8dfc24f63f0fe51d1d8f524921f3b1d6609a319f461b78b6146116dd9b8f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.294.part",
+          "bytes": 900000,
+          "sha256": "06233714ff247b1042fa5a2919f5a83f71f48313ec12667f612f1f16bbf0fcf6"
+        },
+        {
+          "path": "gradle-cache.tar.gz.295.part",
+          "bytes": 900000,
+          "sha256": "f193a5091c9e61f4ba7d39ea6af0d4d1f7ff0cbcbd5403c6419b6427a646383d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.296.part",
+          "bytes": 900000,
+          "sha256": "46d2ebbd179b4fa9a5b30b20a6843e8723cd5a631ae42c4001c84e8537ad5e69"
+        },
+        {
+          "path": "gradle-cache.tar.gz.297.part",
+          "bytes": 900000,
+          "sha256": "c419dc0dc9b2f409f322770c42da14b447d9b8f94b907d4d9c768d62fe93cddc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.298.part",
+          "bytes": 900000,
+          "sha256": "6223cd79a934fc462f75407bbe63308dbc47fb72aee648c40fcb641745f0dd37"
+        },
+        {
+          "path": "gradle-cache.tar.gz.299.part",
+          "bytes": 900000,
+          "sha256": "c0002fde7a6b4fdd5e9dbc946ba168845975011504d90f936aa4eb2e4582e4ea"
+        },
+        {
+          "path": "gradle-cache.tar.gz.300.part",
+          "bytes": 900000,
+          "sha256": "ae88a1683cd3ab1482702d019f11df2a78d2453180f9a9ad4d41439e2e9d3fff"
+        },
+        {
+          "path": "gradle-cache.tar.gz.301.part",
+          "bytes": 900000,
+          "sha256": "73ee17805a1996451cdda4ad75c5b61f9f9e6922b8fafddda77f963555807e12"
+        },
+        {
+          "path": "gradle-cache.tar.gz.302.part",
+          "bytes": 900000,
+          "sha256": "036c688aee0e526ea723d484bdad2dddacaddadabb988c39823c287dfe9bfe7f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.303.part",
+          "bytes": 900000,
+          "sha256": "bb83647ec0796c601d5379d21af09a0890db43cb15e0d3870d739f837164bee5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.304.part",
+          "bytes": 900000,
+          "sha256": "df1b5fbd5360de56f8fbed27d2fb800979bbbc1ae3fd974f1ccc521ac7ad976c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.305.part",
+          "bytes": 900000,
+          "sha256": "57efef03d11c1693ecf760bd881ce1d5c64a5a6c58066cb604252981e0f83faa"
+        },
+        {
+          "path": "gradle-cache.tar.gz.306.part",
+          "bytes": 900000,
+          "sha256": "8d10e1bdee069b2b668680fb245ef93c0b32682c7e3c508af5824b1cf9bb33c8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.307.part",
+          "bytes": 900000,
+          "sha256": "ea70119b7adb99b50145a144d6900ca155e1ddcf9e3394b6bb89e9e25901ad67"
+        },
+        {
+          "path": "gradle-cache.tar.gz.308.part",
+          "bytes": 900000,
+          "sha256": "92461dd1504b1b9a1574d12e959aee033f10f49d5c043df988ff6349d283d559"
+        },
+        {
+          "path": "gradle-cache.tar.gz.309.part",
+          "bytes": 900000,
+          "sha256": "11dad3599940992ad1d291d9c79ce2bfe2968d5ba1a8215a476b5cbe84b7575f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.310.part",
+          "bytes": 900000,
+          "sha256": "80a420385331370f31ab3daa764aa72151cba2b856980c3acceb2f1c414c7f99"
+        },
+        {
+          "path": "gradle-cache.tar.gz.311.part",
+          "bytes": 900000,
+          "sha256": "f2363e267cac8813e8a57647c9ee5f76971f1a5baa105e10d33a5b315a04f399"
+        },
+        {
+          "path": "gradle-cache.tar.gz.312.part",
+          "bytes": 900000,
+          "sha256": "2ee391f588ec372cdf00a88c1a886b4418255f4b3d34facc29c2c7d203002893"
+        },
+        {
+          "path": "gradle-cache.tar.gz.313.part",
+          "bytes": 900000,
+          "sha256": "07210e290a909c0f4e8fe3f4027159b27cdf1b5f14925464fcdc3651a93f52c2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.314.part",
+          "bytes": 900000,
+          "sha256": "0c90b6ee665762018d977717ed57ca11eded69e76cf4768d6a1113b7c5c9248b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.315.part",
+          "bytes": 900000,
+          "sha256": "4d94e408cf497bb2f94dcb7476e126cb17ef47b413f10e42872a1241f612f2f5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.316.part",
+          "bytes": 900000,
+          "sha256": "fb98a58016f2dca8c46da9b8168a8ce136af756cddb2e2951b26f7974b3b7c27"
+        },
+        {
+          "path": "gradle-cache.tar.gz.317.part",
+          "bytes": 900000,
+          "sha256": "d748cfb8abf0e44eb5eaabc90934ae8b6d78410b4de45df7c9cd1bda815b7f45"
+        },
+        {
+          "path": "gradle-cache.tar.gz.318.part",
+          "bytes": 900000,
+          "sha256": "f598ff4a421a46018bb1a0674863059357713c4b7549f8d65c7d4839c61f8543"
+        },
+        {
+          "path": "gradle-cache.tar.gz.319.part",
+          "bytes": 900000,
+          "sha256": "ecf62990fec94d57350092676ec44f62ed4fd9b5328f58d14de244ad7dfe685b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.320.part",
+          "bytes": 900000,
+          "sha256": "bf518d5557778e2873b7074e80e420982eded718606f4d1496d5733c817fc4e8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.321.part",
+          "bytes": 900000,
+          "sha256": "566572771c5efb58246e7e8bd561bd1a7bbf70068d057766e87cf967ba2e66ab"
+        },
+        {
+          "path": "gradle-cache.tar.gz.322.part",
+          "bytes": 900000,
+          "sha256": "6516f7713b64d51e4f136b664b3c48972fbe9931eddab593b8dd0b5ebd1e379c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.323.part",
+          "bytes": 900000,
+          "sha256": "22a28fbcfd2b92aad5e2e5718c3ad1ba19763aaf6216cd6e6cc3e5d8a75948df"
+        },
+        {
+          "path": "gradle-cache.tar.gz.324.part",
+          "bytes": 900000,
+          "sha256": "2f30428aec48707522cfbdbf9a2f0236d810ec84e707d44337fe7226dba33a00"
+        },
+        {
+          "path": "gradle-cache.tar.gz.325.part",
+          "bytes": 900000,
+          "sha256": "e900c200424901b8c7c954853742fff9b5dd4eb5a87268734525761bb0258bb9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.326.part",
+          "bytes": 900000,
+          "sha256": "04da51a0296aafa7a7a069b5a66cbb2b17d9f52b63a03488c216fd2c493f483a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.327.part",
+          "bytes": 900000,
+          "sha256": "4ba7a9989d450a47648b08d63fe8acc3e2d736bfc165e1250905bb0ff07c3489"
+        },
+        {
+          "path": "gradle-cache.tar.gz.328.part",
+          "bytes": 900000,
+          "sha256": "5cf45bca95ffcc53c510a45afc9d671b17a97d496d89e4cc39e72b48f165c446"
+        },
+        {
+          "path": "gradle-cache.tar.gz.329.part",
+          "bytes": 900000,
+          "sha256": "4a87f93d4ad9343522fc5a8dacd2a247e986a8769a06b1664937d7378a1fd46c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.330.part",
+          "bytes": 900000,
+          "sha256": "fd210c65d44e43e626b75b636959f02f0f2ae1d13f4ec9d3c515367ffb18cf0d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.331.part",
+          "bytes": 900000,
+          "sha256": "58dcc345cb1335ad2c102a74031ed0f53e4e8d877f2d729b9ec55803d680e35f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.332.part",
+          "bytes": 900000,
+          "sha256": "62b354054fff2ac90fd2beeeebc36ead13f7aba0155cb1c7b717edce5ba4c0b0"
+        },
+        {
+          "path": "gradle-cache.tar.gz.333.part",
+          "bytes": 900000,
+          "sha256": "186438f97c4714ae4bf2d8093d182c26ad877cb97291bc4fb15401ff6f9a52b6"
+        },
+        {
+          "path": "gradle-cache.tar.gz.334.part",
+          "bytes": 900000,
+          "sha256": "f000a7df5b8d0ce477436d04286c91fe3bd37e5eb0d53fc8d9e1ce5830dfa7d2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.335.part",
+          "bytes": 900000,
+          "sha256": "474eac9907e0c1c64afb13d7b3955c9403160db9a64ed1f74e2faaf22c5437bc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.336.part",
+          "bytes": 900000,
+          "sha256": "2063716add7d69f57bf5402834439e77e6a02943210121f3dbb083f938102196"
+        },
+        {
+          "path": "gradle-cache.tar.gz.337.part",
+          "bytes": 900000,
+          "sha256": "7178bd404924154ecf1fc31f9deb18395849136d8a15a8b1072bd3d72d7a64e0"
+        },
+        {
+          "path": "gradle-cache.tar.gz.338.part",
+          "bytes": 900000,
+          "sha256": "ac8edc65d23a360fa84d77ed1ef1b17e1e9937e90f9d4835baaf2111839da85a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.339.part",
+          "bytes": 900000,
+          "sha256": "093ebae7c66645a17dacfef2c200f220205a459eb8710f028f51818634ce30d4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.340.part",
+          "bytes": 900000,
+          "sha256": "056bed33425d587e539e1d40f6d6dc0d6f518753e44be84dd626d427992c1e4f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.341.part",
+          "bytes": 900000,
+          "sha256": "975df8e332551e4c56338d3236ba068de5e5f4a3d48259298c03844e3231ac77"
+        },
+        {
+          "path": "gradle-cache.tar.gz.342.part",
+          "bytes": 900000,
+          "sha256": "d85c1fdafbe82a9ec79567cc3a3a0aa835304d74e2904bb3056fd52f8766cb1b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.343.part",
+          "bytes": 900000,
+          "sha256": "67695c9d053cf8108fbabc534b0233f571bb3eb285d563fd552d385555ad598a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.344.part",
+          "bytes": 900000,
+          "sha256": "1a6cebe1e0026fa0ea7ad93d39b99b7eb94860427488d6d76721470680156c07"
+        },
+        {
+          "path": "gradle-cache.tar.gz.345.part",
+          "bytes": 900000,
+          "sha256": "2f130a98b23d1604dc4d8f4b2677326204fea92b7f4a2732f43cf931e34a40be"
+        },
+        {
+          "path": "gradle-cache.tar.gz.346.part",
+          "bytes": 900000,
+          "sha256": "407ac4e545ad0612ce2ba5310b0b4e6ad8dc6183cacdeaf186cf8f6304bef5f9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.347.part",
+          "bytes": 900000,
+          "sha256": "4c184a1290b0ac5839dd0ab4dacbbd24b117341880f66c25dfa3d120af6ea65d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.348.part",
+          "bytes": 900000,
+          "sha256": "f1697ad05c88054bbf2f04e68aa0c683132562ad2ee3360183027f23cc5e3086"
+        },
+        {
+          "path": "gradle-cache.tar.gz.349.part",
+          "bytes": 900000,
+          "sha256": "6e3f5709a7dd00b97797a27d1620b5dc1cebbb49b0cd9e94c94c1d36fc428abb"
+        },
+        {
+          "path": "gradle-cache.tar.gz.350.part",
+          "bytes": 900000,
+          "sha256": "5d4ad5a4c1c2274eb0151841786f4a12cffdb5c3668c75a0ee33876efc4db7e7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.351.part",
+          "bytes": 900000,
+          "sha256": "854355843d64c78139a3a3ab23c9f5f73ec10d0c98bc9e434f87df733fc61736"
+        },
+        {
+          "path": "gradle-cache.tar.gz.352.part",
+          "bytes": 900000,
+          "sha256": "b5dddcea52b2051813bb316ccadd7bafeb6609f3439a694bc32349148168b8a0"
+        },
+        {
+          "path": "gradle-cache.tar.gz.353.part",
+          "bytes": 900000,
+          "sha256": "a115d91051f0f93ac544e4252c76a6537b7efdc1ce0d25e2272d40f057d91ddd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.354.part",
+          "bytes": 900000,
+          "sha256": "a2420245159fcafcee638e7802798a015a493bbdb8774461d63c71d3e2972ef1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.355.part",
+          "bytes": 900000,
+          "sha256": "41ee0ac22094cca1da1bd6c8cde43a7f4906eca85a4e18023e47559561cc5dd1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.356.part",
+          "bytes": 900000,
+          "sha256": "d8688943992c3847554098a52a5ea80d0156c20b470f8ba5f0e8ae5c1a008b43"
+        },
+        {
+          "path": "gradle-cache.tar.gz.357.part",
+          "bytes": 900000,
+          "sha256": "c2c958eaf3c1c2ee918435cb10fcbcc9f9bcc68d33f264e536233484aa3ddb92"
+        },
+        {
+          "path": "gradle-cache.tar.gz.358.part",
+          "bytes": 900000,
+          "sha256": "3c402acc712ca96e6d3b3a8b4c799ecabe8fdf6dcf9385f724b0b0eae1bf52b7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.359.part",
+          "bytes": 900000,
+          "sha256": "bcbd39e2fdc370e51f4a33c023a72c67914ebd35b81279d6642420871da4ea71"
+        },
+        {
+          "path": "gradle-cache.tar.gz.360.part",
+          "bytes": 900000,
+          "sha256": "47e91da6b005b92d0c82834a9f214a9e40dd218480a7c16db120f71ebae2288a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.361.part",
+          "bytes": 900000,
+          "sha256": "eefb62fdb3183a4bf28ff44893cb98fa777c91d168d15ed0fcc013f2d2bfc362"
+        },
+        {
+          "path": "gradle-cache.tar.gz.362.part",
+          "bytes": 900000,
+          "sha256": "3e0094350498ef21d4dbcac557f6bd83cd0de0b02dc3c4f4213a3ca02fad8cc0"
+        },
+        {
+          "path": "gradle-cache.tar.gz.363.part",
+          "bytes": 900000,
+          "sha256": "7afadb45e427bef1069bdb62b92e915c8bbdf2ce1a20b93e31915459cd01dfe8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.364.part",
+          "bytes": 900000,
+          "sha256": "38daed9227a5b516c4decccb513d0afc87fe14fd291cd5e80c3c23f24d31f126"
+        },
+        {
+          "path": "gradle-cache.tar.gz.365.part",
+          "bytes": 900000,
+          "sha256": "4d0724a728b2f9e643a7073f29bc2a47dd35a44f881b67adbc3999f8bedfbb15"
+        },
+        {
+          "path": "gradle-cache.tar.gz.366.part",
+          "bytes": 900000,
+          "sha256": "52bdefb492d078a656fa98f64d1aad7a3b6099d18669dbb5470803c84a4691af"
+        },
+        {
+          "path": "gradle-cache.tar.gz.367.part",
+          "bytes": 900000,
+          "sha256": "66e0a24b49711f96cdbb7dc9546ee529a6436a7da2c5ea2c48df3b9c5fa169cd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.368.part",
+          "bytes": 900000,
+          "sha256": "0e3c507eaa4636a7ad43308417b3ae540438b08a90b8f699a1cc781b55fe48ea"
+        },
+        {
+          "path": "gradle-cache.tar.gz.369.part",
+          "bytes": 900000,
+          "sha256": "353c902aeaddd107afdb2c564ce5695ba51b1e8947c16702a304133350f6abde"
+        },
+        {
+          "path": "gradle-cache.tar.gz.370.part",
+          "bytes": 900000,
+          "sha256": "a4461d58594b18b9191883d2e66ad11457b84e2dc3471602f70f2986fabcd44d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.371.part",
+          "bytes": 900000,
+          "sha256": "e1c632274094e99dbb2af4cfc96dff774e59a4802c6095fe797f1db38118724b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.372.part",
+          "bytes": 900000,
+          "sha256": "512f9e7d75377b2f2c32570a2773c5df8c396256642af6381c322d054c2373e4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.373.part",
+          "bytes": 900000,
+          "sha256": "ffcdc7cfc53f35c8283b577665767698a2c75ae6c7bc53008ac1b66a438f617d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.374.part",
+          "bytes": 900000,
+          "sha256": "0372dc993f1f5542ec2e864deed56048cf5287289ebdaab68195a93f4c0d93ed"
+        },
+        {
+          "path": "gradle-cache.tar.gz.375.part",
+          "bytes": 900000,
+          "sha256": "31dffbd0efa1dc5f53e509d38ef2bb82e99ade3f92bea68b366a83fdfbb02fa6"
+        },
+        {
+          "path": "gradle-cache.tar.gz.376.part",
+          "bytes": 900000,
+          "sha256": "3dcfb248a2b8a727976e0217c5880a52098cfc83cbc2f347b08ff5876a2813a5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.377.part",
+          "bytes": 900000,
+          "sha256": "2b6684057ca32281431c58b665bfcf00e50d91fdc322296c058cb235a79aed65"
+        },
+        {
+          "path": "gradle-cache.tar.gz.378.part",
+          "bytes": 900000,
+          "sha256": "14e75bfcb82c2383664e83aef772adfd914421d51d98bd28fa0e8d2f9a6fe005"
+        },
+        {
+          "path": "gradle-cache.tar.gz.379.part",
+          "bytes": 900000,
+          "sha256": "f721f8680f35c6965882c8f9bce2c2af7297a7ac8ade25a81f72f4ba5869532d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.380.part",
+          "bytes": 900000,
+          "sha256": "e332c70112c44b94f325d49813b190d68daf487c65c068b285e62262f49e7439"
+        },
+        {
+          "path": "gradle-cache.tar.gz.381.part",
+          "bytes": 900000,
+          "sha256": "2521441f50b6d25992973d13bfe9e3a2e0a4287ed6a776ed64041b3ae10a9e4d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.382.part",
+          "bytes": 900000,
+          "sha256": "9b216564d61a67a8d6dd55dc9539eb2691815377f2b9e3194848334cba7328d7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.383.part",
+          "bytes": 900000,
+          "sha256": "b26d49b5626b966b388ad104f4416490af2545968cc8a6f94820fa7dffa22c11"
+        },
+        {
+          "path": "gradle-cache.tar.gz.384.part",
+          "bytes": 900000,
+          "sha256": "79442d3555c46f9f8910249bc01a0a9d14dbb1a80afa90196a1ceb6aa2dfcd5c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.385.part",
+          "bytes": 900000,
+          "sha256": "fac14e57e0e2badb231a55d174de88fe1ff8cb40ed8f4f17b9575162336ca808"
+        },
+        {
+          "path": "gradle-cache.tar.gz.386.part",
+          "bytes": 900000,
+          "sha256": "5978151b62ffe707c0071490943679643ec320637ec1ec3c66ac71f75b8a46b2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.387.part",
+          "bytes": 900000,
+          "sha256": "bf2c271e2aea042a9e8beed83316241c6a95fcead8ec650935e618a074c5aeb6"
+        },
+        {
+          "path": "gradle-cache.tar.gz.388.part",
+          "bytes": 900000,
+          "sha256": "d578050ecd23ee3782e007e6b4684a1567105c1eb065fbbc99f770972c80c044"
+        },
+        {
+          "path": "gradle-cache.tar.gz.389.part",
+          "bytes": 900000,
+          "sha256": "c08bb47fff7eb105853306d0b7a8611782d8268845fa03e25b2532ad6b6d3b92"
+        },
+        {
+          "path": "gradle-cache.tar.gz.390.part",
+          "bytes": 900000,
+          "sha256": "fda9d83876660aea751fcf5d93bcb4ca6957f57ec00c16df35a6777ddd16da43"
+        },
+        {
+          "path": "gradle-cache.tar.gz.391.part",
+          "bytes": 900000,
+          "sha256": "9b0100d3dd3300103e26f3dc234a6cacdf319a08acdce64823a9b722a0f2cd5f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.392.part",
+          "bytes": 900000,
+          "sha256": "2acadd7e4df188c90e33274e4236378b4452a212178d8492affe8eff2cfe6556"
+        },
+        {
+          "path": "gradle-cache.tar.gz.393.part",
+          "bytes": 900000,
+          "sha256": "aaaa99432a32a915bd99df6b367ef999d1af565273f950820d6ba248c050af96"
+        },
+        {
+          "path": "gradle-cache.tar.gz.394.part",
+          "bytes": 900000,
+          "sha256": "1f2509b896e1371cad8919376d1e21c26e216871c96c8527a38b8c5d5640193d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.395.part",
+          "bytes": 900000,
+          "sha256": "509a96abd29892b846dac7e7c06c97b4a87e9ff59ffb84ee3bf8c01d78af3e4d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.396.part",
+          "bytes": 900000,
+          "sha256": "2f9415778d0a4e482f5da43e7c68cce841b560f524786d2f3ba2fda41ce48898"
+        },
+        {
+          "path": "gradle-cache.tar.gz.397.part",
+          "bytes": 900000,
+          "sha256": "9ac89de3d50eec54902d45ef922160caad40fcadea9e1b4eaa2e0c7f9333c5b1"
+        },
+        {
+          "path": "gradle-cache.tar.gz.398.part",
+          "bytes": 900000,
+          "sha256": "e447471ccb727879d7e1d10c28d215e46bfbb7191ddb13e1b8f9e592228d1422"
+        },
+        {
+          "path": "gradle-cache.tar.gz.399.part",
+          "bytes": 900000,
+          "sha256": "ba76cb7c12970fcc62e31e2c17f1017859df1d77bd21c083189b629da0c8d60f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.400.part",
+          "bytes": 900000,
+          "sha256": "9e33a60f1d5f9d6178a6721d5125939b8efb8c286d17623c4b742a944ee4e6d3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.401.part",
+          "bytes": 900000,
+          "sha256": "afe7da7bcbefde026d2b46e653cba532278da9a57b12f31a3bc43686340f82b3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.402.part",
+          "bytes": 900000,
+          "sha256": "8aded1b2d9ff771ca76b2a6b44770280c472885f7566bc8e797c7ce9e0da6836"
+        },
+        {
+          "path": "gradle-cache.tar.gz.403.part",
+          "bytes": 900000,
+          "sha256": "09b1973170477cfab94040b5577b1485c6c337cdc3e51fc76773f92f8015e68a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.404.part",
+          "bytes": 900000,
+          "sha256": "6f819a3aa77142acf45251ef3913c114b2ea48c51d67f5055a213d2d391d83d5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.405.part",
+          "bytes": 900000,
+          "sha256": "8ba88529eee2439de4e5ff7a61547150d5ee10ec29e7b1c0461969151d538f3f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.406.part",
+          "bytes": 900000,
+          "sha256": "f7d3271d82d04031837d4957a2e1f6e5a94edb4a7e54432ee1ffc03f7e9e94c3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.407.part",
+          "bytes": 900000,
+          "sha256": "d77c7f5bcd48f91a8ee10ce8964a9290c4e0cf54db69fef8c821a30ae11e8d86"
+        },
+        {
+          "path": "gradle-cache.tar.gz.408.part",
+          "bytes": 900000,
+          "sha256": "59a77929286d0cf4cfde9b24cbbf4a726516fc0d22f319096ab3df6199a1abe7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.409.part",
+          "bytes": 900000,
+          "sha256": "fe559bb6859b4904f8d786036283d24e9abca91328a103e35fe71dce6f81f00a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.410.part",
+          "bytes": 900000,
+          "sha256": "7dea00841266a5355f244284e722853750c7bd08c45c9f3aa03c59aeafb5833d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.411.part",
+          "bytes": 900000,
+          "sha256": "1e2ec3147ad650a01831498ef54970256bbd9c3d5e0199a80c38a2e45c7ce63e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.412.part",
+          "bytes": 900000,
+          "sha256": "17756d789ff6f741a0c092539998873a3423e5a40f111023b0951e3d7a07c6e8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.413.part",
+          "bytes": 900000,
+          "sha256": "e011dfb0d7cd27ac4a1350ac6764f438ebad25c5210a51a34b2b512ad50d62c9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.414.part",
+          "bytes": 900000,
+          "sha256": "89f764460f9745d2e568f6b8797710bb1449cbc90a008fce9ac949c84a33bae7"
+        },
+        {
+          "path": "gradle-cache.tar.gz.415.part",
+          "bytes": 900000,
+          "sha256": "f75a9b0931e905d7a81351a791febd62c43c03b246e1766448b00319a1b53431"
+        },
+        {
+          "path": "gradle-cache.tar.gz.416.part",
+          "bytes": 900000,
+          "sha256": "2b9c78aa34e8898432bb16371ce9645d9e6b701a5e811c8721ff30aad1cb56f8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.417.part",
+          "bytes": 900000,
+          "sha256": "b381910545e22a82762a8d1c8f7abbd4d9be1743171592d68085414ece8906dd"
+        },
+        {
+          "path": "gradle-cache.tar.gz.418.part",
+          "bytes": 900000,
+          "sha256": "998f03150bcce1d1093be7199e1af5509b72e152075bc3f432b6c5752580408a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.419.part",
+          "bytes": 900000,
+          "sha256": "e0e21f2d2fd0b3543495bdb57ba609b74182db3f5ad60d213a809c0eb864e6af"
+        },
+        {
+          "path": "gradle-cache.tar.gz.420.part",
+          "bytes": 900000,
+          "sha256": "590bc765e101671c48ee22c67a42e19b9eb4a3d4881bf4f3db0095a0389e43aa"
+        },
+        {
+          "path": "gradle-cache.tar.gz.421.part",
+          "bytes": 900000,
+          "sha256": "d47c2e4f8026f2ca4aa4379e651c3541aafe868927f90712c6f7a58a38704c23"
+        },
+        {
+          "path": "gradle-cache.tar.gz.422.part",
+          "bytes": 900000,
+          "sha256": "2da8da27b9e6d80c5aae0cfa0039f5876b80cefc3b447a13d1fb8e691127db44"
+        },
+        {
+          "path": "gradle-cache.tar.gz.423.part",
+          "bytes": 900000,
+          "sha256": "14508cd6656b494b1a99e9332f528e3c631488d8ebf4e8dc78216d000056510c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.424.part",
+          "bytes": 900000,
+          "sha256": "8af9fcb91cbf6e3facb5d7e7f9ddb5a2147eed866689c813149894f3489ebe81"
+        },
+        {
+          "path": "gradle-cache.tar.gz.425.part",
+          "bytes": 900000,
+          "sha256": "6c8ec4d6e5bb236e80be3291149c5c1b0da43975b658fed0906bb21527c63ed3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.426.part",
+          "bytes": 900000,
+          "sha256": "af748d6358c40d3d82f0e1b467eb2e60ecca4e2dd151b1f46963f002d84a750e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.427.part",
+          "bytes": 900000,
+          "sha256": "39dab2a54077aa6b09f031557cd31044fe233ca5363e5df69495c38d2433fe77"
+        },
+        {
+          "path": "gradle-cache.tar.gz.428.part",
+          "bytes": 900000,
+          "sha256": "03f2bd1e1a09d5b20b9f4a0d2e0fba03d058863c9a5a9605e3ae268d2974ccc9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.429.part",
+          "bytes": 900000,
+          "sha256": "cb074774f621825f6d29f42c6a7a9b378e51ed9c89d73afc9048f63b8377fe11"
+        },
+        {
+          "path": "gradle-cache.tar.gz.430.part",
+          "bytes": 900000,
+          "sha256": "530a00307a510cc5a5a5a874a037bb1ab45d0dff0dae51573bbc4433cfeb9e6b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.431.part",
+          "bytes": 900000,
+          "sha256": "fa1d598ad75df880ade1e6c01146fd37c282833f7d125c9e37aba9b7896c968c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.432.part",
+          "bytes": 900000,
+          "sha256": "aff549b5aff3b979d8a34425a04bc5d14355e8d2770c3eb62890ea61abb6b4a4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.433.part",
+          "bytes": 900000,
+          "sha256": "2f82fbb00a275665ba2ea2b01c6259aca9770ed8850c964e175516672e3deab5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.434.part",
+          "bytes": 900000,
+          "sha256": "316124e1f3382d841855cf22c0d201f1ae4873f31aa6c0540e5df744ecf45c3b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.435.part",
+          "bytes": 900000,
+          "sha256": "e40423f7073daa0fc06ec27877b0d9ec2525d87a8279abedaad04a06c78e7ea9"
+        },
+        {
+          "path": "gradle-cache.tar.gz.436.part",
+          "bytes": 900000,
+          "sha256": "1529e6815a1797569471e9cb04665ed3fce901a023574e19d28d13ac2a2355ce"
+        },
+        {
+          "path": "gradle-cache.tar.gz.437.part",
+          "bytes": 900000,
+          "sha256": "9c3bddd1c987ee9efa608b3b69eddf8c59743e9551c6e6580e718fd40fe8271f"
+        },
+        {
+          "path": "gradle-cache.tar.gz.438.part",
+          "bytes": 900000,
+          "sha256": "4a883b30dd3896f6155a8be15d123264af92633dda97b350794ae50ec52b03c8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.439.part",
+          "bytes": 900000,
+          "sha256": "c9f0c5d220910806687d365955f209a1269f27709166a345081f93a3d161edc2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.440.part",
+          "bytes": 900000,
+          "sha256": "b14dccd48572dde43e496db0eac885d579cff82fc71bf3fbc4fb451f45e7e8c2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.441.part",
+          "bytes": 900000,
+          "sha256": "040526feacdfb64fa91a34a7a463df48d72c0cddf3c21a0cb6b947cbe9e1d174"
+        },
+        {
+          "path": "gradle-cache.tar.gz.442.part",
+          "bytes": 900000,
+          "sha256": "067dd7ac9cbb87a33a24bca7a6ba25767fee047b5146c8f3e1ae2ec5e28a7718"
+        },
+        {
+          "path": "gradle-cache.tar.gz.443.part",
+          "bytes": 900000,
+          "sha256": "f95d60deca3609c8fa3345f89f63ff80eb34df124aefc2c2bdadcfe91aff37fb"
+        },
+        {
+          "path": "gradle-cache.tar.gz.444.part",
+          "bytes": 900000,
+          "sha256": "169e7efc81109872e1db834b21c892809e7a9e2068489681d8e34ddb3357db82"
+        },
+        {
+          "path": "gradle-cache.tar.gz.445.part",
+          "bytes": 900000,
+          "sha256": "c3eaabba18adb542d86c879c252dc5a21730487c8ef09bf08a579c32023ef353"
+        },
+        {
+          "path": "gradle-cache.tar.gz.446.part",
+          "bytes": 900000,
+          "sha256": "5b5832c0308d17019461714aabc07bf9ad0c4debbe77122d23686e982554a49e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.447.part",
+          "bytes": 900000,
+          "sha256": "710fc053a7b592d7205accb4fdb57bb977925cb6b96ac26d26ec49439da6e7dc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.448.part",
+          "bytes": 900000,
+          "sha256": "5680801b394b2368cc4548e7880a25c42f62a0c97de7f7a1398000a8ab2bd07d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.449.part",
+          "bytes": 900000,
+          "sha256": "ba86e8e0b519adf541ead038838ef3bb7a764cdb639546bf2ac6b90537628ab2"
+        },
+        {
+          "path": "gradle-cache.tar.gz.450.part",
+          "bytes": 900000,
+          "sha256": "41c324a2813ce88337dfc3e48cb892364fa933feca23ef75d97a735fa00d9038"
+        },
+        {
+          "path": "gradle-cache.tar.gz.451.part",
+          "bytes": 900000,
+          "sha256": "0630c5f0f954e961e4eb937aa9e230947709e102eb81ad34a9d722e48e280fb8"
+        },
+        {
+          "path": "gradle-cache.tar.gz.452.part",
+          "bytes": 900000,
+          "sha256": "71d306f710d3b42e33d106c964314d45997c6bedb614ead7fbdbfb41f78f18f5"
+        },
+        {
+          "path": "gradle-cache.tar.gz.453.part",
+          "bytes": 900000,
+          "sha256": "bbae51c0bbf187cececd91e8994ad73ea626d3eb19f5ad4c9af0b3dea6232976"
+        },
+        {
+          "path": "gradle-cache.tar.gz.454.part",
+          "bytes": 900000,
+          "sha256": "0dc5d010169a2df37c1a96170dce7ba50c081584e4678b81da062a29577f59ec"
+        },
+        {
+          "path": "gradle-cache.tar.gz.455.part",
+          "bytes": 900000,
+          "sha256": "dee3b00a95052f205cd5e4a832196cdb51be5aca9bc18950ed79104e4f365431"
+        },
+        {
+          "path": "gradle-cache.tar.gz.456.part",
+          "bytes": 900000,
+          "sha256": "8588588b79f32e9792d55f8f3377dc9a408e06e746c13b4fff68377d58426896"
+        },
+        {
+          "path": "gradle-cache.tar.gz.457.part",
+          "bytes": 900000,
+          "sha256": "7c49d1812159ec5d2390f9edfcc11c78fd22d96e25abe69bc53901751ec1877c"
+        },
+        {
+          "path": "gradle-cache.tar.gz.458.part",
+          "bytes": 900000,
+          "sha256": "5bd15c63593356778b780db308abdc0eee45e5f0128446d28d96973c7d90f18b"
+        },
+        {
+          "path": "gradle-cache.tar.gz.459.part",
+          "bytes": 900000,
+          "sha256": "236e5573cdb7d19e6a4b0344273cd373bab749fee4132f663444ef6201fab560"
+        },
+        {
+          "path": "gradle-cache.tar.gz.460.part",
+          "bytes": 900000,
+          "sha256": "72c970180ff6c1ff7911e7161f2fbad8d5b7bddd4eab5fee8e8de2d297b9ae47"
+        },
+        {
+          "path": "gradle-cache.tar.gz.461.part",
+          "bytes": 900000,
+          "sha256": "3e76fe20784498a080f644ba3d8f755294dc95e04bcf278897838c2a7767c4ba"
+        },
+        {
+          "path": "gradle-cache.tar.gz.462.part",
+          "bytes": 900000,
+          "sha256": "a800af006199ce66ccd95be8d1f772cac2e8f41981c0584cfeff7f7cb116e490"
+        },
+        {
+          "path": "gradle-cache.tar.gz.463.part",
+          "bytes": 900000,
+          "sha256": "a73c632e82a6f4a89ab4eae7209088e9c83b03d5ce0cd4ee6ceab0ac9be5c10a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.464.part",
+          "bytes": 900000,
+          "sha256": "ad945b70a396c3d00ffbd1175d7a09eaca84c6b3fc5a21a2b9eafa1458a04ef3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.465.part",
+          "bytes": 900000,
+          "sha256": "fa25d26cbbbc5d540de4e51826064455ac17b6224beabd4dcfc37e74b63d6949"
+        },
+        {
+          "path": "gradle-cache.tar.gz.466.part",
+          "bytes": 900000,
+          "sha256": "ae3555d743a74d2cb1507b1473e1cd5c113304398e5966b162914e6fb645745a"
+        },
+        {
+          "path": "gradle-cache.tar.gz.467.part",
+          "bytes": 900000,
+          "sha256": "5f30bbe56acdd71c241c88044b3843bc857e9da06a93ede210a1aef0a14ab73e"
+        },
+        {
+          "path": "gradle-cache.tar.gz.468.part",
+          "bytes": 900000,
+          "sha256": "d02ba9ceda25851146578d88d1a1af92adab70064082eb607dfff2b6e003be99"
+        },
+        {
+          "path": "gradle-cache.tar.gz.469.part",
+          "bytes": 900000,
+          "sha256": "f5bf3d635411fd5565122334100f1b0ae9f2ac2e48d4641170d3503cf6d4a235"
+        },
+        {
+          "path": "gradle-cache.tar.gz.470.part",
+          "bytes": 900000,
+          "sha256": "618176dfa1ec86b4bb4a6fe606ef225be6e38d5a100f9ca95816d0a9ce7caa0d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.471.part",
+          "bytes": 900000,
+          "sha256": "a20fb1ec63ea931e115a6b0eb254cfbe2cd9bc9ce963a6e23e5ddca88707e238"
+        },
+        {
+          "path": "gradle-cache.tar.gz.472.part",
+          "bytes": 900000,
+          "sha256": "a1b0145cfc3854f0cdd7e982c749741ebf7b72f10b9daa0b8fb86905511225cc"
+        },
+        {
+          "path": "gradle-cache.tar.gz.473.part",
+          "bytes": 900000,
+          "sha256": "5ac796b7bf4d49a0c15c3175c36175b998d7577032d4f932ba18379a9e63829d"
+        },
+        {
+          "path": "gradle-cache.tar.gz.474.part",
+          "bytes": 900000,
+          "sha256": "21a2ef03a30068b0b56f785fa41ae4d3fcb768abb1c6bef9dcd6a951e6da2e22"
+        },
+        {
+          "path": "gradle-cache.tar.gz.475.part",
+          "bytes": 900000,
+          "sha256": "76c9ad7d1ecaf408cb35a1cfc001c1299131aa64e65649dbd774b879751da6a4"
+        },
+        {
+          "path": "gradle-cache.tar.gz.476.part",
+          "bytes": 900000,
+          "sha256": "611f7e615ef4c4da05507c5182fa7686c3bd8f082a9754cfc69ae162a2159cbb"
+        },
+        {
+          "path": "gradle-cache.tar.gz.477.part",
+          "bytes": 900000,
+          "sha256": "493a37b9bff41f5e5fd7dae2892a24f799bd7104c57099c8634d963537a84cc3"
+        },
+        {
+          "path": "gradle-cache.tar.gz.478.part",
+          "bytes": 93575,
+          "sha256": "a94b37083df4bdccb0349776a1bb7dddbc6ef9dc7302817a3ef7a61dd4934b6d"
+        }
+      ]
+    },
+    {
+      "name": "android-sdk.tar.gz",
+      "bytes": 179252353,
+      "sha256": "dff528fd247457371120fb9a78bbc2b494793ba4d34bc45d0812d7faa0b620c1",
+      "chunks": [
+        {
+          "path": "android-sdk.tar.gz.000.part",
+          "bytes": 900000,
+          "sha256": "ab38b9bc3856c8d9b8d63192f6c85eae876627cc07fb276bb12cdc3f8c54a22d"
+        },
+        {
+          "path": "android-sdk.tar.gz.001.part",
+          "bytes": 900000,
+          "sha256": "d55c5987afbcb5029bfbe264ea779263c7151151441be41a519e019b914be14c"
+        },
+        {
+          "path": "android-sdk.tar.gz.002.part",
+          "bytes": 900000,
+          "sha256": "8cbbafeb7a2c237fdcd7a2fd6af1abca0ee71a66f583004021e8dfa9fa7f133b"
+        },
+        {
+          "path": "android-sdk.tar.gz.003.part",
+          "bytes": 900000,
+          "sha256": "71dd50349e5f94f4fd079cb97d5c6f0d2a790c529ec9f2e60e7f9ce6970382c0"
+        },
+        {
+          "path": "android-sdk.tar.gz.004.part",
+          "bytes": 900000,
+          "sha256": "15aa8f1f3409137196230e364176ff95b5a872bd2b7b9aab5018e2b3a733dd31"
+        },
+        {
+          "path": "android-sdk.tar.gz.005.part",
+          "bytes": 900000,
+          "sha256": "234f9b73781fab5adc160348ea8dacadba872d15c66a9b7dea1664c36b9fd113"
+        },
+        {
+          "path": "android-sdk.tar.gz.006.part",
+          "bytes": 900000,
+          "sha256": "f76b787dc1b9fd7a4b081432940f0400026c4e8290b24d9e1e74512d2e200d23"
+        },
+        {
+          "path": "android-sdk.tar.gz.007.part",
+          "bytes": 900000,
+          "sha256": "911b8531025894558ce1e0f5f40c2cc5faabfde8f9b210772063f6a228c63b0f"
+        },
+        {
+          "path": "android-sdk.tar.gz.008.part",
+          "bytes": 900000,
+          "sha256": "002f4b03bca99008a967b2fd9b0cc2e8b996ff03e5a104bada775341ab7433cd"
+        },
+        {
+          "path": "android-sdk.tar.gz.009.part",
+          "bytes": 900000,
+          "sha256": "06ed7a1d0218d2e6a2e898e90b996df75e9f2a55a8d636b037877463ff76293a"
+        },
+        {
+          "path": "android-sdk.tar.gz.010.part",
+          "bytes": 900000,
+          "sha256": "bd4403d6cbc70aaaaca0d701bfeb6d2a380e46d41a0c74cefbdd39be72805bfb"
+        },
+        {
+          "path": "android-sdk.tar.gz.011.part",
+          "bytes": 900000,
+          "sha256": "0922428e6f1695cc065f63ca1c097f34d5782c698d0785cda385f4b55485590a"
+        },
+        {
+          "path": "android-sdk.tar.gz.012.part",
+          "bytes": 900000,
+          "sha256": "cb0d13bab42272e584a7c09ae1895cadc473b454e59b04da8009a06eb6e29bae"
+        },
+        {
+          "path": "android-sdk.tar.gz.013.part",
+          "bytes": 900000,
+          "sha256": "adb7301e6bb00c4ed7caac36da618c1409ee0d10656d4abbb64f81468222a0af"
+        },
+        {
+          "path": "android-sdk.tar.gz.014.part",
+          "bytes": 900000,
+          "sha256": "1c513585882d7ca65e185d0fe67604f14943bfd347a248ba5c6f9de6e29cc26f"
+        },
+        {
+          "path": "android-sdk.tar.gz.015.part",
+          "bytes": 900000,
+          "sha256": "3a7058c0f6fb2c5fc822933bba68429f5eade245aff430cbdd6748867ad00c68"
+        },
+        {
+          "path": "android-sdk.tar.gz.016.part",
+          "bytes": 900000,
+          "sha256": "d357075eb819fb41df78efa3eeef414711c18db37ed9cb660baff9bbcfce7523"
+        },
+        {
+          "path": "android-sdk.tar.gz.017.part",
+          "bytes": 900000,
+          "sha256": "ab75339940ffdc2f6ca33f0d4cf9d2df1b89fe3b06aebcd95742ea268e6f2477"
+        },
+        {
+          "path": "android-sdk.tar.gz.018.part",
+          "bytes": 900000,
+          "sha256": "ba1bdfeee47c1a01fda6f769b732e7adb51a5f683f637cae81e011609bf94762"
+        },
+        {
+          "path": "android-sdk.tar.gz.019.part",
+          "bytes": 900000,
+          "sha256": "f84ba37c22088ba277ebdd06e8c766d552505b134bf77a0a3375eeda4a04ca65"
+        },
+        {
+          "path": "android-sdk.tar.gz.020.part",
+          "bytes": 900000,
+          "sha256": "816150792758d52899172d94dc7b6a729028f4f8fbd87731d3980935c4953dfd"
+        },
+        {
+          "path": "android-sdk.tar.gz.021.part",
+          "bytes": 900000,
+          "sha256": "299a9f437ac8847f1c4e26e82be5a064125d000fb1f8e66b198eafc7fd3489b6"
+        },
+        {
+          "path": "android-sdk.tar.gz.022.part",
+          "bytes": 900000,
+          "sha256": "2ed8883ee692c8e587a956536f39f1e9e0c535bb9a96262a59b4e5f2ae0728d7"
+        },
+        {
+          "path": "android-sdk.tar.gz.023.part",
+          "bytes": 900000,
+          "sha256": "84609044bc07305e2f1d4f508047b4364617db2d0664d04dccc1be1fc9b7195c"
+        },
+        {
+          "path": "android-sdk.tar.gz.024.part",
+          "bytes": 900000,
+          "sha256": "54eec5478ac4b35a1a206735c51e53439217c0e89669ef03d3fabcfa57dcaf98"
+        },
+        {
+          "path": "android-sdk.tar.gz.025.part",
+          "bytes": 900000,
+          "sha256": "f8586337502b8b3fb7bd54656927368c51b7a731523ee5aa680287ea3e8bbac0"
+        },
+        {
+          "path": "android-sdk.tar.gz.026.part",
+          "bytes": 900000,
+          "sha256": "12ad4261cc34adbe4f23b06da91f04841790619e5045fd054aee3b1986cae057"
+        },
+        {
+          "path": "android-sdk.tar.gz.027.part",
+          "bytes": 900000,
+          "sha256": "62505bc8e643df9f1c32ccf35c3e60d327c72ca9d6220b0d97b8da902e92ccce"
+        },
+        {
+          "path": "android-sdk.tar.gz.028.part",
+          "bytes": 900000,
+          "sha256": "dd939db6eb07ed9f1ca525ac0a299edd2a677d182f664423071d40dd94c232de"
+        },
+        {
+          "path": "android-sdk.tar.gz.029.part",
+          "bytes": 900000,
+          "sha256": "9edcdd229bb0d3d0d3d73978d42d6fd4a3226947d9d316d743eeacebd1bace61"
+        },
+        {
+          "path": "android-sdk.tar.gz.030.part",
+          "bytes": 900000,
+          "sha256": "4724e817ba7f80c1b31c2c5f99e1cb6d78f22982c4a29d96bd8166c59d95d9e5"
+        },
+        {
+          "path": "android-sdk.tar.gz.031.part",
+          "bytes": 900000,
+          "sha256": "8c83ce0cc5b69b2e9fa8838544bd642b36bc530614d919ea62a0e5a0257b06b7"
+        },
+        {
+          "path": "android-sdk.tar.gz.032.part",
+          "bytes": 900000,
+          "sha256": "386a645ec10a4b80a0b99295b07e84675717efab9337513eeb4c0fba0a64e76a"
+        },
+        {
+          "path": "android-sdk.tar.gz.033.part",
+          "bytes": 900000,
+          "sha256": "1aad5e296ac3cdce260f60f65f4137695915a17d6e91938fa7938fe857132da2"
+        },
+        {
+          "path": "android-sdk.tar.gz.034.part",
+          "bytes": 900000,
+          "sha256": "66ca6bddb901712449e07d43a40f7b8ac7fda7edc0edd4dc203a71b2cfee5c46"
+        },
+        {
+          "path": "android-sdk.tar.gz.035.part",
+          "bytes": 900000,
+          "sha256": "67335f7a2b75f0addfb2d1ca92bcb170292d0ab63ecfbe5b526901f58708b511"
+        },
+        {
+          "path": "android-sdk.tar.gz.036.part",
+          "bytes": 900000,
+          "sha256": "19dce1ac599891318c761bd058423890a80f33d0a5ceed9fb15ea27faa3bfa80"
+        },
+        {
+          "path": "android-sdk.tar.gz.037.part",
+          "bytes": 900000,
+          "sha256": "7bc21f2b68928d707ce2f10099e7e6956161941b51bc08c318eb17718864e36f"
+        },
+        {
+          "path": "android-sdk.tar.gz.038.part",
+          "bytes": 900000,
+          "sha256": "04f5e905770a1c2d6f1b95a37d1733b843fd53a7e35679a64f1e771df1e04e0f"
+        },
+        {
+          "path": "android-sdk.tar.gz.039.part",
+          "bytes": 900000,
+          "sha256": "91fb8d1f59015c57692fb16c77b3b6ca18f493d493aaadf7d2c32a3f0297a1d3"
+        },
+        {
+          "path": "android-sdk.tar.gz.040.part",
+          "bytes": 900000,
+          "sha256": "c87505da9157cebcb5fce614f6392ef2a6af4da03e656e22fc84985ae2aaefba"
+        },
+        {
+          "path": "android-sdk.tar.gz.041.part",
+          "bytes": 900000,
+          "sha256": "8e16c58e59b462b4fc56d2d130e536fcc0c61baea50d68d8ad6ead784e54a26e"
+        },
+        {
+          "path": "android-sdk.tar.gz.042.part",
+          "bytes": 900000,
+          "sha256": "252bb38b2a657f6c6305b589af807d103d9bb7b18d1ece729ea4093079153d6f"
+        },
+        {
+          "path": "android-sdk.tar.gz.043.part",
+          "bytes": 900000,
+          "sha256": "055bf5970066a35d017380920f7607a1ebb4d6b4e4a49383a5c606d7edd68e5f"
+        },
+        {
+          "path": "android-sdk.tar.gz.044.part",
+          "bytes": 900000,
+          "sha256": "ea1386dc5a20ee244d7234bb8153a928e316d3b96e8e65dd0a56dbed7a98976b"
+        },
+        {
+          "path": "android-sdk.tar.gz.045.part",
+          "bytes": 900000,
+          "sha256": "d0520411d9cc2de50b5bd1acfcac26b201bf67eb691ccb8e928e3700396dd994"
+        },
+        {
+          "path": "android-sdk.tar.gz.046.part",
+          "bytes": 900000,
+          "sha256": "ab7f4d297d0ceaa2c5142ad174a7be6f6956d8a2c44344e0c412ab49350f1639"
+        },
+        {
+          "path": "android-sdk.tar.gz.047.part",
+          "bytes": 900000,
+          "sha256": "470e87263392425f13776120b99780f4df4c2e12dacda00346feb2e9075efa20"
+        },
+        {
+          "path": "android-sdk.tar.gz.048.part",
+          "bytes": 900000,
+          "sha256": "d9878867a7e7f9b717ab05b73c12f64c86ca6eb447c615f2d5d3499608bd527a"
+        },
+        {
+          "path": "android-sdk.tar.gz.049.part",
+          "bytes": 900000,
+          "sha256": "cefc0986efb71e145b80ebba1245f8b04e96e12f834d66eca64039fb0d563f5a"
+        },
+        {
+          "path": "android-sdk.tar.gz.050.part",
+          "bytes": 900000,
+          "sha256": "159cf1751de015fcc668832bb20973bf28adb88f78a43c79b72bb0884730bd06"
+        },
+        {
+          "path": "android-sdk.tar.gz.051.part",
+          "bytes": 900000,
+          "sha256": "91f31134fa11de1c79d3e0fe4f7ecdf72cb49098037aa1cb8de007bc43ca27ed"
+        },
+        {
+          "path": "android-sdk.tar.gz.052.part",
+          "bytes": 900000,
+          "sha256": "fb851abee02cf4d36c10882ef13ccc80b07f41da7dccb32416ffac292eded579"
+        },
+        {
+          "path": "android-sdk.tar.gz.053.part",
+          "bytes": 900000,
+          "sha256": "32c8b2b7cd1409678458907cd87e7dacb57f89de494a05ce7ac249e6f473ed5e"
+        },
+        {
+          "path": "android-sdk.tar.gz.054.part",
+          "bytes": 900000,
+          "sha256": "9477207821dc945e3e2fe94f32b471c67442f378e502ca1b27d973c1a2636a89"
+        },
+        {
+          "path": "android-sdk.tar.gz.055.part",
+          "bytes": 900000,
+          "sha256": "6cd9551b287a6ad6bd4654e3395758eb83bcb285d2f9f5dba380ca1b2f5e741c"
+        },
+        {
+          "path": "android-sdk.tar.gz.056.part",
+          "bytes": 900000,
+          "sha256": "993fa61178c2bb8441a2d0b35af3ec596724ffd09fcb389f0c35b2095dfae0a9"
+        },
+        {
+          "path": "android-sdk.tar.gz.057.part",
+          "bytes": 900000,
+          "sha256": "9cf151f9292ac69f4aceb431668a824569d40d0c358c8c0da22073dd439aa41a"
+        },
+        {
+          "path": "android-sdk.tar.gz.058.part",
+          "bytes": 900000,
+          "sha256": "c5bbf7728f03e8b826d1b7a636044ec7bdb5953a125692593a2acb307fd02b4d"
+        },
+        {
+          "path": "android-sdk.tar.gz.059.part",
+          "bytes": 900000,
+          "sha256": "51a3ff8b415d37a29a42459b9ad24ded95defb385954116136bb4910f6300458"
+        },
+        {
+          "path": "android-sdk.tar.gz.060.part",
+          "bytes": 900000,
+          "sha256": "03442238282f3b85a824321309a23cd176b91df9e60b59d38bc8887fa8b16443"
+        },
+        {
+          "path": "android-sdk.tar.gz.061.part",
+          "bytes": 900000,
+          "sha256": "8be1022cf639a655d5a6bf8ad0c58da4dc3952151f58a4cf167618fddd86b7e8"
+        },
+        {
+          "path": "android-sdk.tar.gz.062.part",
+          "bytes": 900000,
+          "sha256": "96336e73690af2eb5a5bec607d3cc567f65809ce07b0f578b2659ef3251a101a"
+        },
+        {
+          "path": "android-sdk.tar.gz.063.part",
+          "bytes": 900000,
+          "sha256": "410de409ce172a1b5bf7c648b1a331a4bc2d6e3bb032b1ee2fb00bde3687bd49"
+        },
+        {
+          "path": "android-sdk.tar.gz.064.part",
+          "bytes": 900000,
+          "sha256": "9f3c73dccfe067c40dc8790ae747d16300346f368f05d52e4a5f715e6de91258"
+        },
+        {
+          "path": "android-sdk.tar.gz.065.part",
+          "bytes": 900000,
+          "sha256": "ec084eca17ac290f5ce5c3d23deab62418702b03f9552915c379315c460043fb"
+        },
+        {
+          "path": "android-sdk.tar.gz.066.part",
+          "bytes": 900000,
+          "sha256": "b7cb1747629fed80910679b9dc76c8d0424ebf24f39429f61a497a139a99bf3d"
+        },
+        {
+          "path": "android-sdk.tar.gz.067.part",
+          "bytes": 900000,
+          "sha256": "fea7e08df1b6c04239e501d477fd49355ae0ab137767bc8ceec3b866ff9a1bdb"
+        },
+        {
+          "path": "android-sdk.tar.gz.068.part",
+          "bytes": 900000,
+          "sha256": "ad49b7c1f5e4823184e21994ab5fb7aa21842ac92645fe8819cd5f309bc61bbe"
+        },
+        {
+          "path": "android-sdk.tar.gz.069.part",
+          "bytes": 900000,
+          "sha256": "e3df6b336f74d8e5bb7a344010464aa486d96969977cc912157ff831dc49c192"
+        },
+        {
+          "path": "android-sdk.tar.gz.070.part",
+          "bytes": 900000,
+          "sha256": "b2961ce60151ff6bd01a23d2c75d890966af5bb388b55adef6df42ea793cfb8b"
+        },
+        {
+          "path": "android-sdk.tar.gz.071.part",
+          "bytes": 900000,
+          "sha256": "affe344143de568d6040245d4cb52aed3173f9b636882883e2d2bcc5a6921efc"
+        },
+        {
+          "path": "android-sdk.tar.gz.072.part",
+          "bytes": 900000,
+          "sha256": "9d15cf4ada402ec77dc6fd422834a0acb25433768312e41cec6c02d8bfc54c6e"
+        },
+        {
+          "path": "android-sdk.tar.gz.073.part",
+          "bytes": 900000,
+          "sha256": "c647ed20d64204054f1875e76026b2d19803bc1c868386fb116877b4db8d19d2"
+        },
+        {
+          "path": "android-sdk.tar.gz.074.part",
+          "bytes": 900000,
+          "sha256": "bc5a954dc8792b665f14ee1a88085b3f0886f75b34010840a3a91fec6ccd8613"
+        },
+        {
+          "path": "android-sdk.tar.gz.075.part",
+          "bytes": 900000,
+          "sha256": "7079387186b3d34d6a83ce2190ad35451e7ac57454cb42fdf3bb085b216fef68"
+        },
+        {
+          "path": "android-sdk.tar.gz.076.part",
+          "bytes": 900000,
+          "sha256": "e013d277e585fd6343093da5798b17a6bf2d60b83dd4c4eee748225cf4f056b0"
+        },
+        {
+          "path": "android-sdk.tar.gz.077.part",
+          "bytes": 900000,
+          "sha256": "87302dd6b081f6bd3fe8141db978eca7955275a8ec354fc8f1117358419a3d23"
+        },
+        {
+          "path": "android-sdk.tar.gz.078.part",
+          "bytes": 900000,
+          "sha256": "18371ac8b5e23d0ae63b47854c8f5a1e338206e8c7d03d2a2d53a93d9eaf8ef2"
+        },
+        {
+          "path": "android-sdk.tar.gz.079.part",
+          "bytes": 900000,
+          "sha256": "dfd9a218ce0a67424de887b2b6d4f2f36a9973f5b3fd848a9e6161693d458fd2"
+        },
+        {
+          "path": "android-sdk.tar.gz.080.part",
+          "bytes": 900000,
+          "sha256": "5b175ddb397ae4a87017f0bc17b46e11402f87e8f12c4dc8d7ce0d597a999854"
+        },
+        {
+          "path": "android-sdk.tar.gz.081.part",
+          "bytes": 900000,
+          "sha256": "24ff732cc24ffd417df356840e44cba0696ed4f7a3b4fd3cbef460d9dfbbe83b"
+        },
+        {
+          "path": "android-sdk.tar.gz.082.part",
+          "bytes": 900000,
+          "sha256": "cce187f53da0166c4492192cee88b0776f78cf2f23e96e813be9b93204636e89"
+        },
+        {
+          "path": "android-sdk.tar.gz.083.part",
+          "bytes": 900000,
+          "sha256": "a7fbd0a0897fecb800ee0abf3f091b952ccebf27831f104da4e0a29f1e458f5c"
+        },
+        {
+          "path": "android-sdk.tar.gz.084.part",
+          "bytes": 900000,
+          "sha256": "414216a3be2fc161ce51f635d8d526bd7e8026109c5a8529cae3f65f867fac7d"
+        },
+        {
+          "path": "android-sdk.tar.gz.085.part",
+          "bytes": 900000,
+          "sha256": "ad12857082086c35cdb92676beb0219411feeed8e7e8ee092cb59b8e07d64e3a"
+        },
+        {
+          "path": "android-sdk.tar.gz.086.part",
+          "bytes": 900000,
+          "sha256": "8ff8841b36d7b1de1260681bd181b5ac877ba42096538c17ad64ec90c62c669c"
+        },
+        {
+          "path": "android-sdk.tar.gz.087.part",
+          "bytes": 900000,
+          "sha256": "2e55d0e0ed6085df2629b58326e7055bb9df748a018fdaa04f06850a9e539c4c"
+        },
+        {
+          "path": "android-sdk.tar.gz.088.part",
+          "bytes": 900000,
+          "sha256": "2fa180af087de4f54c00a7690eae5c657221164711c5fc0b27ebc7b41ecfba3e"
+        },
+        {
+          "path": "android-sdk.tar.gz.089.part",
+          "bytes": 900000,
+          "sha256": "63731b57b6fcf1a31b1f03012bdfad03c90acc2bb7efad6380a019259b1ad8e1"
+        },
+        {
+          "path": "android-sdk.tar.gz.090.part",
+          "bytes": 900000,
+          "sha256": "892a5e78eaab4240e29c38f2c42ad089e47433b9ccfb0b45ad2f86c929eaf93a"
+        },
+        {
+          "path": "android-sdk.tar.gz.091.part",
+          "bytes": 900000,
+          "sha256": "3b460f7a1f0354cebad3d0342cef9f9e7e693a8aa1aaca4f38577288c60c9581"
+        },
+        {
+          "path": "android-sdk.tar.gz.092.part",
+          "bytes": 900000,
+          "sha256": "e898f9f44e903044cda84c5bc0f2d45227f508e0b055c226dcf118e5277c1cc0"
+        },
+        {
+          "path": "android-sdk.tar.gz.093.part",
+          "bytes": 900000,
+          "sha256": "523e9788b29aaf1670319b0142fa38ee16ec4729115d4840b008fbfd01da54e6"
+        },
+        {
+          "path": "android-sdk.tar.gz.094.part",
+          "bytes": 900000,
+          "sha256": "8bde9e2795b1624b5597c749c41edf736a699fc8f105ff278396347b87fec60e"
+        },
+        {
+          "path": "android-sdk.tar.gz.095.part",
+          "bytes": 900000,
+          "sha256": "7f16298cbbee5671ec44a8a27e13847bba77e7dcdd8e0f19eb389b7943a113af"
+        },
+        {
+          "path": "android-sdk.tar.gz.096.part",
+          "bytes": 900000,
+          "sha256": "fa944e8f52fb7dbbcafa5f7d8164fb90e8e6d193a82326a1f81c0f794194c83c"
+        },
+        {
+          "path": "android-sdk.tar.gz.097.part",
+          "bytes": 900000,
+          "sha256": "7d1060f9b5a2055db6181abe9c5ac5a4f08474cb713433461dd246c857539d9d"
+        },
+        {
+          "path": "android-sdk.tar.gz.098.part",
+          "bytes": 900000,
+          "sha256": "77f9f482f096042bf863816de663877ba12098b294bdcbfacdeeb3526032245c"
+        },
+        {
+          "path": "android-sdk.tar.gz.099.part",
+          "bytes": 900000,
+          "sha256": "362435c8069e07935d9fc0cf60b527000a97c95a77b20b285f98d83057059a1a"
+        },
+        {
+          "path": "android-sdk.tar.gz.100.part",
+          "bytes": 900000,
+          "sha256": "8212491c927e49603779da4dd85564b840380d35ee65ab941d45b561b9810705"
+        },
+        {
+          "path": "android-sdk.tar.gz.101.part",
+          "bytes": 900000,
+          "sha256": "2dcbc2af3f0843e56a0b840a98629c88c8591104693da3e0028a82d7d0a9ab4b"
+        },
+        {
+          "path": "android-sdk.tar.gz.102.part",
+          "bytes": 900000,
+          "sha256": "1c17d1c8a405f83d6ec380986683b956faf64a17aa924fc5e50939b5c7945e0a"
+        },
+        {
+          "path": "android-sdk.tar.gz.103.part",
+          "bytes": 900000,
+          "sha256": "2edb18d0629e77b558af16efdb1f1d2958d7c2993a0ed8cf619ee6cea5397a5c"
+        },
+        {
+          "path": "android-sdk.tar.gz.104.part",
+          "bytes": 900000,
+          "sha256": "2536309494c78b6b823f76612c745262dfa37f48e6fd19bcd8eafd39dd7c746b"
+        },
+        {
+          "path": "android-sdk.tar.gz.105.part",
+          "bytes": 900000,
+          "sha256": "045aa7abad50d33868a972e1a9b1a8fb7bafdf0f13e3e2717fc46398b90d3338"
+        },
+        {
+          "path": "android-sdk.tar.gz.106.part",
+          "bytes": 900000,
+          "sha256": "87394ab216ffb8e2e1cd14ae76c5ffcf9647a65d61b3c1e67570604df6064033"
+        },
+        {
+          "path": "android-sdk.tar.gz.107.part",
+          "bytes": 900000,
+          "sha256": "2656cc6ad1d5288909e2aa5950048b0361fd2b54921888f65097b6691e636f82"
+        },
+        {
+          "path": "android-sdk.tar.gz.108.part",
+          "bytes": 900000,
+          "sha256": "d67c6ee97421884f94251bb4d47029802c6899525ff4e6d2a2720e3e51d39e6d"
+        },
+        {
+          "path": "android-sdk.tar.gz.109.part",
+          "bytes": 900000,
+          "sha256": "395dde1e6cf658206996f6174452e589d7a9a1b67eda9091fdbc97ee1d6cc03a"
+        },
+        {
+          "path": "android-sdk.tar.gz.110.part",
+          "bytes": 900000,
+          "sha256": "d2ff242c84841c5a0431358b3cebcc15c3394da0a5ebc30aa76d7279444ac983"
+        },
+        {
+          "path": "android-sdk.tar.gz.111.part",
+          "bytes": 900000,
+          "sha256": "81261f5f8f47fce82f0d4982f140e963ed1c8bf813b6865d3dc71a2888658031"
+        },
+        {
+          "path": "android-sdk.tar.gz.112.part",
+          "bytes": 900000,
+          "sha256": "28d6885563bcfc6c01e90cde0b3114075e49b01e3e451a30f6ed06a6e5f66b31"
+        },
+        {
+          "path": "android-sdk.tar.gz.113.part",
+          "bytes": 900000,
+          "sha256": "274cb7d5fde22324cb03f46e8a7fb2e393ed851a21ea833d9c2cd046492dc963"
+        },
+        {
+          "path": "android-sdk.tar.gz.114.part",
+          "bytes": 900000,
+          "sha256": "2f7528aae673c5b06d1cb6ec4496bf1dc17f2491b98c82328789b5fb80f8e03b"
+        },
+        {
+          "path": "android-sdk.tar.gz.115.part",
+          "bytes": 900000,
+          "sha256": "44543c727d3d0e7222912669a45a17090636c235ea9e7a2b79f7846dfdebc18f"
+        },
+        {
+          "path": "android-sdk.tar.gz.116.part",
+          "bytes": 900000,
+          "sha256": "3418059ed522e136809136112251750e93df0bb92d55a0385d39cfe7a86e2b82"
+        },
+        {
+          "path": "android-sdk.tar.gz.117.part",
+          "bytes": 900000,
+          "sha256": "94466fb9284c9f162b0a751b64da69256cfe0cfcda88113a47598656c0f0d868"
+        },
+        {
+          "path": "android-sdk.tar.gz.118.part",
+          "bytes": 900000,
+          "sha256": "ddd2bd532a0732ac059bdac3e4c1c92834dc5d99cfc5abb4038b0c04a8421857"
+        },
+        {
+          "path": "android-sdk.tar.gz.119.part",
+          "bytes": 900000,
+          "sha256": "fcc3c04bfe2be3a409c0e10d348825adb4852a8aff46d2323de4f866f0b7694d"
+        },
+        {
+          "path": "android-sdk.tar.gz.120.part",
+          "bytes": 900000,
+          "sha256": "4c2d51af97c695b135e7b0b7d85cbc480315a03c64a14d5aa81235e2d4ac1d8d"
+        },
+        {
+          "path": "android-sdk.tar.gz.121.part",
+          "bytes": 900000,
+          "sha256": "875d8f81eaf52adc11fdc06ac195180fb236128bc462bb4883c49d56f344ce8b"
+        },
+        {
+          "path": "android-sdk.tar.gz.122.part",
+          "bytes": 900000,
+          "sha256": "5cf5fdbae98d1975f43adec464242955bd5ded5e6cef4bee6dcbbc359aac8541"
+        },
+        {
+          "path": "android-sdk.tar.gz.123.part",
+          "bytes": 900000,
+          "sha256": "57f488a540e7da629f5c0eaafb1105de3851910e7bd41c082c21699396332f24"
+        },
+        {
+          "path": "android-sdk.tar.gz.124.part",
+          "bytes": 900000,
+          "sha256": "19c733c052b57550e529dc6a5483d7812b16598f9f0ef8bb0c541be4b392387b"
+        },
+        {
+          "path": "android-sdk.tar.gz.125.part",
+          "bytes": 900000,
+          "sha256": "ed081991ad28a51900d392bad41721e30e2c72faad828d3dc596b3d9610124bc"
+        },
+        {
+          "path": "android-sdk.tar.gz.126.part",
+          "bytes": 900000,
+          "sha256": "867eece3336d30a705a1b735e56675a0e04db98865ebf8652bc41e8350efc9ae"
+        },
+        {
+          "path": "android-sdk.tar.gz.127.part",
+          "bytes": 900000,
+          "sha256": "5b34f5dd8e1974de0c99a6ba5bac6fef4cd42c7f770f2dff195e9f83acf087a6"
+        },
+        {
+          "path": "android-sdk.tar.gz.128.part",
+          "bytes": 900000,
+          "sha256": "7822b617394ed670187d5b045cd767355e7fb9a8bc44abb80b622face1ee2a62"
+        },
+        {
+          "path": "android-sdk.tar.gz.129.part",
+          "bytes": 900000,
+          "sha256": "357d46238560fe70cdaee491c673828c37811b0b34f3418aa937c4501097ccbd"
+        },
+        {
+          "path": "android-sdk.tar.gz.130.part",
+          "bytes": 900000,
+          "sha256": "87cdbffe646131ecd16af68bb0197dc5d36774170d0880a2ce61c7b607e69433"
+        },
+        {
+          "path": "android-sdk.tar.gz.131.part",
+          "bytes": 900000,
+          "sha256": "ff3a23ae7eb0af8285f9d24ffeb8e6f0796d8ea1fda954cd122d3830f577ce9e"
+        },
+        {
+          "path": "android-sdk.tar.gz.132.part",
+          "bytes": 900000,
+          "sha256": "1c84d7805ffff63fe8bec0309d6aa51fe3d383408293f9ab403e4b693fae3b83"
+        },
+        {
+          "path": "android-sdk.tar.gz.133.part",
+          "bytes": 900000,
+          "sha256": "707dc74b0e8a17c455ecd0663e47ba8c01376790c86113b2c6c64404c54f1084"
+        },
+        {
+          "path": "android-sdk.tar.gz.134.part",
+          "bytes": 900000,
+          "sha256": "fa1d3018182e0e4bc41f8bafc473a7e0ca2ef35874ef4a9724e276150326da9c"
+        },
+        {
+          "path": "android-sdk.tar.gz.135.part",
+          "bytes": 900000,
+          "sha256": "67e06a77024c167ec1ce217af1b74a8ffbd9bd8b1897603b50aaa4fdb848aa25"
+        },
+        {
+          "path": "android-sdk.tar.gz.136.part",
+          "bytes": 900000,
+          "sha256": "0d8dec0a94ac7d963fbc79e3da96183f87164efeebb9d00eb9d66821375b4a41"
+        },
+        {
+          "path": "android-sdk.tar.gz.137.part",
+          "bytes": 900000,
+          "sha256": "4af7d091ee17932ce3410d903e7f293c9507fc4572e5ed28e888a35ce5897532"
+        },
+        {
+          "path": "android-sdk.tar.gz.138.part",
+          "bytes": 900000,
+          "sha256": "188cb1522ba0799d5b2b03211b38fbff6123c2caf5a75e69a072b2c6130169fb"
+        },
+        {
+          "path": "android-sdk.tar.gz.139.part",
+          "bytes": 900000,
+          "sha256": "ec99d8d8eda9fad8f019209f8ad8f42eeac798af5d8b4f1532f8311318a3ea36"
+        },
+        {
+          "path": "android-sdk.tar.gz.140.part",
+          "bytes": 900000,
+          "sha256": "e476559056ab12128d62311e15ed1d39a04644b7013698ff53c01699be53a3ed"
+        },
+        {
+          "path": "android-sdk.tar.gz.141.part",
+          "bytes": 900000,
+          "sha256": "b1d4c7e044ef2410b269fc8d5ac42d4dc1e32eba3b2877918cc3dcaa4fe95902"
+        },
+        {
+          "path": "android-sdk.tar.gz.142.part",
+          "bytes": 900000,
+          "sha256": "4ac0f70e691a2ab8b81f388c71c1fc0673bfdbf1360f84bea125a7b742bd6746"
+        },
+        {
+          "path": "android-sdk.tar.gz.143.part",
+          "bytes": 900000,
+          "sha256": "c151ea7a98fe964e039fe217cf478cc87a1b8558f1fe577451979a3ead6482d0"
+        },
+        {
+          "path": "android-sdk.tar.gz.144.part",
+          "bytes": 900000,
+          "sha256": "e3086946025c3540c2c7c772f56057de69f403754152d9f69f98a01799c3382d"
+        },
+        {
+          "path": "android-sdk.tar.gz.145.part",
+          "bytes": 900000,
+          "sha256": "31399e8f3168528ab6378d601f395754c3c0d817c6e89eeaac6dbb85e090722d"
+        },
+        {
+          "path": "android-sdk.tar.gz.146.part",
+          "bytes": 900000,
+          "sha256": "184006b3feea421851754a8e098dab2c05b2f0ea6361d607d31a405ece5b26cd"
+        },
+        {
+          "path": "android-sdk.tar.gz.147.part",
+          "bytes": 900000,
+          "sha256": "42a4daf84d87b03321fdf638f3ec653ef9de68618a22fe0b5d28832d56b9df04"
+        },
+        {
+          "path": "android-sdk.tar.gz.148.part",
+          "bytes": 900000,
+          "sha256": "42222a0da30867acf568e0f716bf1cb4676b49fe8c179186d47d968b2edfc0b9"
+        },
+        {
+          "path": "android-sdk.tar.gz.149.part",
+          "bytes": 900000,
+          "sha256": "6c9d5b63eed69074977fce2b7f1fc242788491e4de77c6e7e86066d9e56ccaa6"
+        },
+        {
+          "path": "android-sdk.tar.gz.150.part",
+          "bytes": 900000,
+          "sha256": "818a2a32e58c18fb9d542b9fc73532582d69f2eaa8283dc86442d707a4112e4e"
+        },
+        {
+          "path": "android-sdk.tar.gz.151.part",
+          "bytes": 900000,
+          "sha256": "7c2dc2410a628fd2cfc21d4dcb067fe420961e1c7456095f609c3d3bb518160a"
+        },
+        {
+          "path": "android-sdk.tar.gz.152.part",
+          "bytes": 900000,
+          "sha256": "97827f5f4fb5e64225dbcd25476797acff1d90d5f172a13e2ec81672e9d62a27"
+        },
+        {
+          "path": "android-sdk.tar.gz.153.part",
+          "bytes": 900000,
+          "sha256": "02e2b193090cad38447b3e7e08b318e6f39fcad394c30cca02bf3bb3ad78a4a1"
+        },
+        {
+          "path": "android-sdk.tar.gz.154.part",
+          "bytes": 900000,
+          "sha256": "91f80279c0adf607cc188e2f13e3fbd87ee7cc94b2c6d14b62a5d5615d78eb54"
+        },
+        {
+          "path": "android-sdk.tar.gz.155.part",
+          "bytes": 900000,
+          "sha256": "c32f6626efe16aec8163b8939a815dcd332a7b1fefa81830bc121f47844c04c9"
+        },
+        {
+          "path": "android-sdk.tar.gz.156.part",
+          "bytes": 900000,
+          "sha256": "9875c318bba8fb22e749f4439dbe56b12f382e6c7c671d98f1de92f8a0b91c82"
+        },
+        {
+          "path": "android-sdk.tar.gz.157.part",
+          "bytes": 900000,
+          "sha256": "efbbf2a761384c7ce3a8c39d402d8b8cc72e5118b9ab668eceabb37cfc127b27"
+        },
+        {
+          "path": "android-sdk.tar.gz.158.part",
+          "bytes": 900000,
+          "sha256": "cd55804c44759a3780ef813d14348ac8b88b8aec802a8178b04b72f068671053"
+        },
+        {
+          "path": "android-sdk.tar.gz.159.part",
+          "bytes": 900000,
+          "sha256": "dac58a566e3f6ce83f309c68132e9deb8f5b2024e9adffd265895acfac370d3b"
+        },
+        {
+          "path": "android-sdk.tar.gz.160.part",
+          "bytes": 900000,
+          "sha256": "60d7c3a1deafa313ff23c7be0ea86b247dc7b170125acd932a23d11ccf642c96"
+        },
+        {
+          "path": "android-sdk.tar.gz.161.part",
+          "bytes": 900000,
+          "sha256": "97882bb0ac64cbddc91ba59d8579adb41c9b489509cfa0cbd205341031f5d20a"
+        },
+        {
+          "path": "android-sdk.tar.gz.162.part",
+          "bytes": 900000,
+          "sha256": "b829abd17aeb708fb1478b40600314e18fc51a987a4beae22ccad600810bca4f"
+        },
+        {
+          "path": "android-sdk.tar.gz.163.part",
+          "bytes": 900000,
+          "sha256": "e8660398f512a61831b0c645816dd499376f037f2316af45753310e70f325bf0"
+        },
+        {
+          "path": "android-sdk.tar.gz.164.part",
+          "bytes": 900000,
+          "sha256": "edcaf4e8fea04fd266e44250cda9fd98622d2fd379cc8ef785a73b48f2ef0f12"
+        },
+        {
+          "path": "android-sdk.tar.gz.165.part",
+          "bytes": 900000,
+          "sha256": "598ec78fd60b32ca8d290cfd78cc2594c998c7612a105fd8147f7265bf6f6c0d"
+        },
+        {
+          "path": "android-sdk.tar.gz.166.part",
+          "bytes": 900000,
+          "sha256": "fcab06db1e99efb3c2163e353361cc96f7a52fe6db767c7cfa4c9d41cab0f298"
+        },
+        {
+          "path": "android-sdk.tar.gz.167.part",
+          "bytes": 900000,
+          "sha256": "79e3c7911d7e1eb4983a71580fe9cfefab07bd6490547ea400f7fe04e9481639"
+        },
+        {
+          "path": "android-sdk.tar.gz.168.part",
+          "bytes": 900000,
+          "sha256": "3ccfc2cc233a42dd14a087e2c92c6edda52af1868c2341d0b6edb21145b76e5a"
+        },
+        {
+          "path": "android-sdk.tar.gz.169.part",
+          "bytes": 900000,
+          "sha256": "1c9cc0282ad90b1161cc10d47c148901e9fdac307569facea58ee11da80882f3"
+        },
+        {
+          "path": "android-sdk.tar.gz.170.part",
+          "bytes": 900000,
+          "sha256": "0e6f5249e5f9fbf731bb487f2e05c1c8904089984933bef2b7a644821026ec41"
+        },
+        {
+          "path": "android-sdk.tar.gz.171.part",
+          "bytes": 900000,
+          "sha256": "15ae91ebcc4b8d59d6f452d06faba2d878f141821a64b3a9a50188e9774f8fc6"
+        },
+        {
+          "path": "android-sdk.tar.gz.172.part",
+          "bytes": 900000,
+          "sha256": "6c0ba689a4866a4ed446731b87eee8676e9fed9988cea00ca2bf84c9a94ef92b"
+        },
+        {
+          "path": "android-sdk.tar.gz.173.part",
+          "bytes": 900000,
+          "sha256": "a0c75e2bdeb872df6dd34e6fa395c25f078da8eb96190c66d065bce91832fa5a"
+        },
+        {
+          "path": "android-sdk.tar.gz.174.part",
+          "bytes": 900000,
+          "sha256": "6c93568b31722bd1a3d466e0bdac1e789bfb1e8d3eb1651ff53d4151bff2c7b3"
+        },
+        {
+          "path": "android-sdk.tar.gz.175.part",
+          "bytes": 900000,
+          "sha256": "dad749dc00104574f26f3a61518e612a71b1d8dfa9dd66e5712411a072095e0d"
+        },
+        {
+          "path": "android-sdk.tar.gz.176.part",
+          "bytes": 900000,
+          "sha256": "f0e7a055143637b2e26ab6346727205d1e01b11e59bbe5b7dc284338c55c189e"
+        },
+        {
+          "path": "android-sdk.tar.gz.177.part",
+          "bytes": 900000,
+          "sha256": "a4b6044bf50becc8f7618f48299e62d6a5d600e445f18c8d8205bb8abc05d7b8"
+        },
+        {
+          "path": "android-sdk.tar.gz.178.part",
+          "bytes": 900000,
+          "sha256": "587f563c88a939d8e31db591df65c486ae5cbe0f18035ee6ee2e9e203d12402e"
+        },
+        {
+          "path": "android-sdk.tar.gz.179.part",
+          "bytes": 900000,
+          "sha256": "a3abaf12a0d01a75b2705b6014aaf1829005ac86ae8722ac616f3c21c6fe24e2"
+        },
+        {
+          "path": "android-sdk.tar.gz.180.part",
+          "bytes": 900000,
+          "sha256": "7c27a911cb8dd32c978a67ade0d5e44e2b53e58dd731c9ae7903e7c8eec19c68"
+        },
+        {
+          "path": "android-sdk.tar.gz.181.part",
+          "bytes": 900000,
+          "sha256": "2d603ab05b3131f1507a23293824ded6499b279755a98390b41b8961cba161a0"
+        },
+        {
+          "path": "android-sdk.tar.gz.182.part",
+          "bytes": 900000,
+          "sha256": "a381c47d331158cae30843356f7526b0163291b8b4f5c3e20d715b192eef0f13"
+        },
+        {
+          "path": "android-sdk.tar.gz.183.part",
+          "bytes": 900000,
+          "sha256": "319878b9b422b5879bc10767415209482025f1945526bf6d525caf7094cd4ebf"
+        },
+        {
+          "path": "android-sdk.tar.gz.184.part",
+          "bytes": 900000,
+          "sha256": "9f178cf52e3378c0a8983f5a8f40647fc6374349c1e79b14a33b6622145ae203"
+        },
+        {
+          "path": "android-sdk.tar.gz.185.part",
+          "bytes": 900000,
+          "sha256": "f519543a6b76b580ec81cad829b7b1fdd1dd93d83e346e2b6f922431744a5049"
+        },
+        {
+          "path": "android-sdk.tar.gz.186.part",
+          "bytes": 900000,
+          "sha256": "665cae5f4f7878484d9fe8bf365e916895f802e8b8fdee6232f3be7339b1c011"
+        },
+        {
+          "path": "android-sdk.tar.gz.187.part",
+          "bytes": 900000,
+          "sha256": "4849cddae81a1fd51cd03474457324dbb551c41c6a5c43a2755586346cb44803"
+        },
+        {
+          "path": "android-sdk.tar.gz.188.part",
+          "bytes": 900000,
+          "sha256": "5d4612b13ef232f019f0a75d845d70b6348e999f3cf19ce7ffb40b8ad94c55bd"
+        },
+        {
+          "path": "android-sdk.tar.gz.189.part",
+          "bytes": 900000,
+          "sha256": "2e05c9c5cbf3817e619808af5473fd5f9cc959b474f5d5de4c91898691ee1e1a"
+        },
+        {
+          "path": "android-sdk.tar.gz.190.part",
+          "bytes": 900000,
+          "sha256": "61ccb7c59b2af6cdd1927dc87539716e104e057e5effdf4b5eaf657c6898c2f2"
+        },
+        {
+          "path": "android-sdk.tar.gz.191.part",
+          "bytes": 900000,
+          "sha256": "23b879fae07fdacfeef90e7bdfea95b3f76b5ad78c84e0e8953147238b28f4ee"
+        },
+        {
+          "path": "android-sdk.tar.gz.192.part",
+          "bytes": 900000,
+          "sha256": "e9d131096eb81e7d7b6f659b418cd2f67f1bf6fec82b8783cb1d4f6e7d0f38e9"
+        },
+        {
+          "path": "android-sdk.tar.gz.193.part",
+          "bytes": 900000,
+          "sha256": "7650f4ceb9117aa4b9ff142e0eda4baf7c1d3c954de98f7f7b16882b29031833"
+        },
+        {
+          "path": "android-sdk.tar.gz.194.part",
+          "bytes": 900000,
+          "sha256": "aa5cddce094943d4b0d4e6a8fa4b6d08298f4ed8088db4945d23274b9229727d"
+        },
+        {
+          "path": "android-sdk.tar.gz.195.part",
+          "bytes": 900000,
+          "sha256": "cf8df9892ee4c849c432a8ff07cd0bf0a4e7faca8f56827efbadb96cae7bbc33"
+        },
+        {
+          "path": "android-sdk.tar.gz.196.part",
+          "bytes": 900000,
+          "sha256": "b4643ed4fa247f9630c33589b8b9666e95361dbfff1fb346be4cfb63cc1d09ee"
+        },
+        {
+          "path": "android-sdk.tar.gz.197.part",
+          "bytes": 900000,
+          "sha256": "5955a31b93db1c4ccea164fdc5bf99673d1430ec8788aab3e06e0994704708c5"
+        },
+        {
+          "path": "android-sdk.tar.gz.198.part",
+          "bytes": 900000,
+          "sha256": "39a7fab232d75499b25397ab5c71793bc9e424f965be239feceed9ccd3858e81"
+        },
+        {
+          "path": "android-sdk.tar.gz.199.part",
+          "bytes": 152353,
+          "sha256": "84f412564bfa5cdcfa6685c90bb078033e2819a89950a35c2bf4bf0ec2c84935"
+        }
+      ]
     }
   ]
 }
