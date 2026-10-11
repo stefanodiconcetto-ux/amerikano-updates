@@ -1,0 +1,49 @@
+name: Prepare Android verification tools
+on:
+  push:
+    branches: [toolchain-apk-1.9.37]
+    paths: [.github/workflows/prepare-apk-tools.yml]
+permissions:
+  contents: write
+jobs:
+  export-tools:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Prepare official tools (no app source or signing key)
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/amerikano-tools tool-export
+          curl --fail --location --retry 2 https://github.com/iBotPeaches/Apktool/releases/download/v3.0.3/apktool_3.0.3.jar -o /tmp/amerikano-tools/apktool.jar
+          printf '%s  %s\n' dbf930b076c6b9be08d57c449cacefc3bdd6b71ebd59b3066fc0e1f5b14f9423 /tmp/amerikano-tools/apktool.jar | sha256sum --check
+          APK_TOOL_DIR=$(find "$ANDROID_HOME/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -1)
+          cp "$APK_TOOL_DIR/lib/apksigner.jar" /tmp/amerikano-tools/apksigner.jar
+          cp "$APK_TOOL_DIR/zipalign" /tmp/amerikano-tools/zipalign
+          cp "$APK_TOOL_DIR/aapt" /tmp/amerikano-tools/aapt
+          if test -f "$APK_TOOL_DIR/lib64/libc++.so"; then cp "$APK_TOOL_DIR/lib64/libc++.so" /tmp/amerikano-tools/libc++.so; fi
+          npm pack @electric-sql/pglite@0.3.3 --pack-destination /tmp/amerikano-tools
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib,json
+          out=Path('tool-export');files=[]
+          for source in sorted(Path('/tmp/amerikano-tools').iterdir()):
+              data=source.read_bytes();chunks=[]
+              for i,start in enumerate(range(0,len(data),900000)):
+                  part=data[start:start+900000];name=f'{source.name}.{i:03d}.part'
+                  (out/name).write_bytes(part)
+                  chunks.append({'path':name,'bytes':len(part),'sha256':hashlib.sha256(part).hexdigest()})
+              files.append({'name':source.name,'bytes':len(data),'sha256':hashlib.sha256(data).hexdigest(),'chunks':chunks})
+          (out/'manifest.json').write_text(json.dumps({'apktoolVersion':'3.0.3','pgliteVersion':'0.3.3','files':files},indent=2)+'\n')
+          PY
+      - name: Save only tool binaries on isolated branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add tool-export
+          git commit -m 'Export Android tools and PGlite for offline verification'
+          git push origin HEAD:toolchain-apk-1.9.37
