@@ -1,0 +1,213 @@
+{
+  "apktoolVersion": "3.0.3",
+  "pgliteVersion": "0.3.3",
+  "files": [
+    {
+      "name": "aapt",
+      "bytes": 1784432,
+      "sha256": "8cdf40b93e34c5aab518175e9738959f8e104a8f039eda3311f3ef6fb13ae992",
+      "chunks": [
+        {
+          "path": "aapt.000.part",
+          "bytes": 900000,
+          "sha256": "9f574680bc37ee62b4887cdd93d225452e15591ea434edf6f5a659fa62b89076"
+        },
+        {
+          "path": "aapt.001.part",
+          "bytes": 884432,
+          "sha256": "a70f20ffd18e5eed59c2eafee59d12b2d50839c35b40cfdb82a22662ab24870e"
+        }
+      ]
+    },
+    {
+      "name": "apksigner.jar",
+      "bytes": 1181416,
+      "sha256": "2defad215d7ff52968a409cde528cdaef7918b115e276b8e3378ca7a178e4180",
+      "chunks": [
+        {
+          "path": "apksigner.jar.000.part",
+          "bytes": 900000,
+          "sha256": "efcca93ce05cfd384a184f6246d89f40913c7253ca6dc7b95430593f0b671079"
+        },
+        {
+          "path": "apksigner.jar.001.part",
+          "bytes": 281416,
+          "sha256": "fdbf4884d9f1c560fe27f5e5f1d95803be2930f2d761053aa9f54ae37c0a1ce0"
+        }
+      ]
+    },
+    {
+      "name": "apktool.jar",
+      "bytes": 15478013,
+      "sha256": "dbf930b076c6b9be08d57c449cacefc3bdd6b71ebd59b3066fc0e1f5b14f9423",
+      "chunks": [
+        {
+          "path": "apktool.jar.000.part",
+          "bytes": 900000,
+          "sha256": "470a9a279a32b93c633b3cebc4dd5d5c3fe4dc207d6597f882dc2eb6a2799f0b"
+        },
+        {
+          "path": "apktool.jar.001.part",
+          "bytes": 900000,
+          "sha256": "37f9119f9b379b7b45adb2c6399174de1342d6282ab61499a2ad8d2c4f292582"
+        },
+        {
+          "path": "apktool.jar.002.part",
+          "bytes": 900000,
+          "sha256": "420d59837014bd0d8c358d8cafdb79817710038e1b16edb4dfa6a051fae8650a"
+        },
+        {
+          "path": "apktool.jar.003.part",
+          "bytes": 900000,
+          "sha256": "bad3622f585c999ec2fff7a9f4242dd5a7bf66395e82226aa9c922e23bf248d8"
+        },
+        {
+          "path": "apktool.jar.004.part",
+          "bytes": 900000,
+          "sha256": "d617e78b093755373c39d86b9de61f6d5db5a9b3d433566d5c1635655d6338b5"
+        },
+        {
+          "path": "apktool.jar.005.part",
+          "bytes": 900000,
+          "sha256": "b6232ff3ae15586b16dfd764eb467cec5d628b797bf3554814c8a12e42ddf62c"
+        },
+        {
+          "path": "apktool.jar.006.part",
+          "bytes": 900000,
+          "sha256": "7b834591614b3ecb338f488ee7670979a9ac79507d444fbd05bef76922f2279a"
+        },
+        {
+          "path": "apktool.jar.007.part",
+          "bytes": 900000,
+          "sha256": "f6f363597cb72581d7c9d1dc072762428f51d501244a1dc80902120f66970c08"
+        },
+        {
+          "path": "apktool.jar.008.part",
+          "bytes": 900000,
+          "sha256": "d5c9869cf235f7a65380b1ff2c73ed849098330b7ae9aeaff3b49b124540c61e"
+        },
+        {
+          "path": "apktool.jar.009.part",
+          "bytes": 900000,
+          "sha256": "5780f8c772d53e73d974aca23e49a67698ce023b08089b37c53b06e6b07264af"
+        },
+        {
+          "path": "apktool.jar.010.part",
+          "bytes": 900000,
+          "sha256": "5807b752b3680602b4ff929e62be2e6ddc3f39c4f42cbf0543571ac2b8b492e3"
+        },
+        {
+          "path": "apktool.jar.011.part",
+          "bytes": 900000,
+          "sha256": "d8f62db120fe800cbf3a9d875f8a2ecc79edfdb444c6b84cfafd29b5f73af6f1"
+        },
+        {
+          "path": "apktool.jar.012.part",
+          "bytes": 900000,
+          "sha256": "1fb51f3bb4ba6f83a32ed31ac484e3691551074fa2490ed7d548986259a11575"
+        },
+        {
+          "path": "apktool.jar.013.part",
+          "bytes": 900000,
+          "sha256": "ed510e77ba7a7b2717e627ee0b052c971080160794e71aa0737bf89233a3f009"
+        },
+        {
+          "path": "apktool.jar.014.part",
+          "bytes": 900000,
+          "sha256": "13ac7accab48f744de8f33bc8c893fc5e0db4bf55db07f4be585ecdeb9076525"
+        },
+        {
+          "path": "apktool.jar.015.part",
+          "bytes": 900000,
+          "sha256": "49b7a7f478abd881a89e94779acc4891f738d443ba37279d433ebe975ac989f7"
+        },
+        {
+          "path": "apktool.jar.016.part",
+          "bytes": 900000,
+          "sha256": "1642fd776d099c4a7f8230a9a8ea13adfd8f0d07fcc7df2283fed0c574ed671a"
+        },
+        {
+          "path": "apktool.jar.017.part",
+          "bytes": 178013,
+          "sha256": "a0f5b2e4b32716257de1394c066519e3f6063b13d275c86a506a744a25d5e862"
+        }
+      ]
+    },
+    {
+      "name": "electric-sql-pglite-0.3.3.tgz",
+      "bytes": 6678702,
+      "sha256": "26381cc918b410380dc98d40143697fe6f482d365343179bb8403fbdbf47bb10",
+      "chunks": [
+        {
+          "path": "electric-sql-pglite-0.3.3.tgz.000.part",
+          "bytes": 900000,
+          "sha256": "97e235942e9487daf36f9258e9c75896ed85ee424efeb6a499a0fcd7f308a98c"
+        },
+        {
+          "path": "electric-sql-pglite-0.3.3.tgz.001.part",
+          "bytes": 900000,
+          "sha256": "33fa7889bd281b30d8b9a9ed66603febd2e059138266032705dd0b30a480d2a1"
+        },
+        {
+          "path": "electric-sql-pglite-0.3.3.tgz.002.part",
+          "bytes": 900000,
+          "sha256": "7318bb1ca529e8da84a17f2e1e8e4013703edf3524d3d4553eb1a519a6decf5d"
+        },
+        {
+          "path": "electric-sql-pglite-0.3.3.tgz.003.part",
+          "bytes": 900000,
+          "sha256": "2c5368a07b487a99cbae9c52aa266000bee5c69f97057b42f52c0be5ee6383a1"
+        },
+        {
+          "path": "electric-sql-pglite-0.3.3.tgz.004.part",
+          "bytes": 900000,
+          "sha256": "bc8aa7d5af450823d0d911bd0e211f1d990b66960535ae37635172b65db1d93b"
+        },
+        {
+          "path": "electric-sql-pglite-0.3.3.tgz.005.part",
+          "bytes": 900000,
+          "sha256": "bfc7ea1d99b87737b802a7794a351bbf01be65302585f832fa100c178ea4863f"
+        },
+        {
+          "path": "electric-sql-pglite-0.3.3.tgz.006.part",
+          "bytes": 900000,
+          "sha256": "db67a06308d4ca5d836d1632bc95b97f44bce8aa5568e4599544cd3099d855e6"
+        },
+        {
+          "path": "electric-sql-pglite-0.3.3.tgz.007.part",
+          "bytes": 378702,
+          "sha256": "46ce18a359d8bc43524ecb9f55e7971f2e6410cca273098800c1720e6e4c7de1"
+        }
+      ]
+    },
+    {
+      "name": "libc++.so",
+      "bytes": 1545448,
+      "sha256": "9d4c9036e8eca07cb7cf161128c362e8e5550ede7cd7f99078d559c14a5fdf9a",
+      "chunks": [
+        {
+          "path": "libc++.so.000.part",
+          "bytes": 900000,
+          "sha256": "075fc1943276ecfafa5c47dd6561a144dfbcb3844de491bf73cff2bb0712f6f6"
+        },
+        {
+          "path": "libc++.so.001.part",
+          "bytes": 645448,
+          "sha256": "c6ce8b6f653bdf8c0336b0a4ecafb7664d1b42795c742af4e8652f321882b1f6"
+        }
+      ]
+    },
+    {
+      "name": "zipalign",
+      "bytes": 256480,
+      "sha256": "0859ed6e59d3ded7519cd6e6409c0d9ce914af0e09dadc2dce7965ee2e991852",
+      "chunks": [
+        {
+          "path": "zipalign.000.part",
+          "bytes": 256480,
+          "sha256": "0859ed6e59d3ded7519cd6e6409c0d9ce914af0e09dadc2dce7965ee2e991852"
+        }
+      ]
+    }
+  ]
+}
