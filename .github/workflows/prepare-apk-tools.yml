@@ -40,6 +40,57 @@ jobs:
               files.append({'name':source.name,'bytes':len(data),'sha256':hashlib.sha256(data).hexdigest(),'chunks':chunks})
           (out/'manifest.json').write_text(json.dumps({'apktoolVersion':'3.0.3','pgliteVersion':'0.3.3','files':files},indent=2)+'\n')
           PY
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.10.2'
+          cache-disabled: true
+      - name: Prepare offline Gradle and SDK cache using generic sample
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/amerikano-smoke/app/src/main/kotlin/example/toolchain
+          cat > /tmp/amerikano-smoke/settings.gradle.kts <<'EOF'
+          pluginManagement { repositories { google(); mavenCentral(); gradlePluginPortal() } }
+          dependencyResolutionManagement { repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS); repositories { google(); mavenCentral() } }
+          rootProject.name = "ToolchainSmoke"
+          include(":app")
+          EOF
+          cat > /tmp/amerikano-smoke/build.gradle.kts <<'EOF'
+          plugins { id("com.android.application") version "8.7.3" apply false; id("org.jetbrains.kotlin.android") version "2.0.21" apply false }
+          EOF
+          cat > /tmp/amerikano-smoke/app/build.gradle.kts <<'EOF'
+          plugins { id("com.android.application"); id("org.jetbrains.kotlin.android") }
+          android {
+              namespace = "example.toolchain"; compileSdk = 35
+              defaultConfig { applicationId = "example.toolchain"; minSdk = 23; targetSdk = 35; versionCode = 1; versionName = "1" }
+              compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 }
+              kotlinOptions { jvmTarget = "17" }
+          }
+          EOF
+          printf '%s\n' '<manifest xmlns:android="http://schemas.android.com/apk/res/android"><application /></manifest>' > /tmp/amerikano-smoke/app/src/main/AndroidManifest.xml
+          printf '%s\n' 'package example.toolchain' 'class Activity : android.app.Activity()' > /tmp/amerikano-smoke/app/src/main/kotlin/example/toolchain/Activity.kt
+          gradle -p /tmp/amerikano-smoke --gradle-user-home /tmp/amerikano-gradle-cache assembleRelease --no-daemon
+          curl --fail --location --retry 2 https://services.gradle.org/distributions/gradle-8.10.2-bin.zip -o /tmp/amerikano-tools/gradle-8.10.2-bin.zip
+          curl --fail --location https://services.gradle.org/distributions/gradle-8.10.2-bin.zip.sha256 -o /tmp/gradle.sha256
+          printf '%s  %s\n' "$(cat /tmp/gradle.sha256)" /tmp/amerikano-tools/gradle-8.10.2-bin.zip | sha256sum --check
+          tar -czf /tmp/amerikano-tools/gradle-cache.tar.gz -C /tmp/amerikano-gradle-cache caches
+          tar -czf /tmp/amerikano-tools/android-sdk.tar.gz -C "$ANDROID_HOME" platforms/android-35 build-tools/34.0.0 build-tools/35.0.0 licenses
+          python - <<'PYEXPORT'
+          from pathlib import Path
+          import hashlib,json
+          out=Path('tool-export');manifest=json.loads((out/'manifest.json').read_text())
+          for name in ['gradle-8.10.2-bin.zip','gradle-cache.tar.gz','android-sdk.tar.gz']:
+              data=(Path('/tmp/amerikano-tools')/name).read_bytes();chunks=[]
+              for i,start in enumerate(range(0,len(data),900000)):
+                  part=data[start:start+900000];path=f'{name}.{i:03d}.part';(out/path).write_bytes(part)
+                  chunks.append({'path':path,'bytes':len(part),'sha256':hashlib.sha256(part).hexdigest()})
+              manifest['files'].append({'name':name,'bytes':len(data),'sha256':hashlib.sha256(data).hexdigest(),'chunks':chunks})
+          (out/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+          PYEXPORT
       - name: Save only tool binaries on isolated branch
         run: |
           git config user.name 'github-actions[bot]'
